@@ -1,0 +1,1 @@
+**Discorso sul testo della Divina Commedia** (1825): dimostra **l’amore per Dante e il suo ruolo come poeta civile**.
