@@ -1,1 +1,0 @@
-Foscolo **insiste** sul valore della **memoria collettiva** e **sull’importanza dei monumenti e dei sepolcri per perpetuare i valori di una nazione**.

@@ -1,2 +1,0 @@
--  Foscolo rappresenta una **transizione** tra il **Neoclassicismo** (armonia, perfezione classica) e il **Romanticismo** (individualismo, malinconia, natura come rifugio).
-- **Esprime l’angoscia dell’uomo moderno in un mondo senza certezze**, **cercando consolazione nei valori eterni dell’arte e della poesia**.
