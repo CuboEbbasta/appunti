@@ -1,1 +1,0 @@
-**Ricciarda** (1813): **tragedia di ispirazione alfieriana che approfondisce conflitti tra amore e dovere**.

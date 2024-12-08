@@ -1,3 +1,0 @@
-**Le due odi**, ==A Luigia Pallavicini== **caduta da cavallo** (**1799**) e soprattutto ==All’amica risanata== (**1802**-**1803**), **segnano**, in forme diverse, **il passaggio di Foscolo alla maturità poetica**. ==Se infatti nei sonetti il poeta guarda al proprio mondo interiore, con le sue passioni e la sua soggettiva verità, nelle odi il==
-==tema dominante è la bellezza femminile==: **essa appare** come ==manifestazione di un’armonia segreta dell’universo e di una verità ideale che la poesia attinge al di fuori della storia==. ==La bellezza svolge dunque un’altissima funzione rispetto all’animo umano avvolto nelle passioni terrene perché la==
-==bellezza conforta e rasserena==.

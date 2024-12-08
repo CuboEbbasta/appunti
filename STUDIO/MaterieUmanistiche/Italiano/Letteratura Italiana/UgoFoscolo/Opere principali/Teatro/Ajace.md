@@ -1,1 +1,0 @@
-**Ajace** (1811): **tragedia** in cui Foscolo **critica il tradimento e l’oppressione**, **rifacendosi al mito classico di Aiace**.

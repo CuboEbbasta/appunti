@@ -1,1 +1,0 @@
-**Lettere e articoli di critica letteraria**: Foscolo ==si impegna nella diffusione di valori neoclassici e romantici==.
