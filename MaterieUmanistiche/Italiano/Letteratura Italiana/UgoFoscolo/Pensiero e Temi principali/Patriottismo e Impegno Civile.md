@@ -1,0 +1,2 @@
+- **Foscolo** incarna **l’ideale** dell’**intellettuale engagé**, **impegnato nella lotta contro la tirannia e nella difesa della libertà**.
+- **Il tradimento politico** lo porta a un **profondo pessimismo storico**, ma la **poesia rimane per lui uno strumento per tramandare gli ideali patriottici**.

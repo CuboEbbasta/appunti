@@ -1,0 +1,2 @@
+- **Influenzato dall’illuminismo**, Foscolo r**espinge una visione religiosa della vita**. **La morte è vista come fine definitiva** (materialismo).
+- **Tuttavia**, crede nella **sopravvivenza ideale attraverso l’arte, la memoria e il sacrificio patriottico**.
