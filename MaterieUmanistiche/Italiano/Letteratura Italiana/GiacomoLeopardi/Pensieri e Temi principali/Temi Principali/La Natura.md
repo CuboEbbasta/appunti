@@ -1,0 +1,5 @@
+- Inizialmente, la **natura** per Leopardi era vista come una **forza benevola**, ma con il passare del tempo, Leopardi ne cambia visione, arrivando a concepirla come una **forza indifferente** o addirittura **ostile** verso gli esseri umani.
+- Nella fase matura della sua riflessione, la natura appare come una matrigna, cioè una forza che non ha alcuna cura per la sofferenza degli esseri viventi, che non fa distinzione tra il bene e il male, il piacere e il dolore. Essa è completamente **indifferente** al destino umano.
+- **Citazione** (da **"Dialogo della Natura e di un Islandese"**): "La natura non ha né cuore né pensiero, né scrupoli."
+
+==Leopardi inizia la sua riflessione sulla natura con una visione inizialmente positiva, descrivendola come "benigna", capace di offrire momenti di felicità. Tuttavia, con il tempo, questa percezione cambia radicalmente. La natura diventa "matrigna", un'entità indifferente che inganna l'uomo con promesse di felicità mai mantenute. Questa trasformazione è ben espressa nelle sue poesie, dove il paesaggio naturale viene descritto con toni di bellezza ma anche di malinconia==

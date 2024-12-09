@@ -1,0 +1,4 @@
+- ==Un altro tema ricorrente nelle poesie di Leopardi è la consapevolezza che **tutto** è **destinato a finire**. Il concetto di **transitorietà** è strettamente legato al pensiero che ogni bellezza, ogni momento felice, e ogni speranza siano destinati a svanire nel tempo==.
+- In molte sue poesie, ==Leopardi celebra la giovinezza e l'amore, ma ne sottolinea anche la **fugacità**. La **consapevolezza della morte** è sempre presente e inevitabile==.
+- **Citazione** (da **"L'infinito"**): "Sempre caro mi fu quest’ermo colle, / e questa siepe, che da tanta parte / dell’ultimo orizzonte il guardo esclude."
+- Qui, attraverso l'immagine di una siepe che limita la vista, Leopardi riflette sulla limitatezza della vita e della percezione umana, ma anche sulla bellezza dell'infinito, che sfida la temporaneità.

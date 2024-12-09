@@ -1,0 +1,2 @@
+==Un altro aspetto fondamentale del pensiero leopardiano è la sua teoria del piacere, che sostiene che l'uomo cerca un piacere infinito e illimitato. Tuttavia, poiché nessun piacere terreno può soddisfare questa esigenza, nasce in lui un senso di insoddisfazione perpetua. Questa tensione tra desiderio e realtà contribuisce alla sua visione pessimistica della vita==
+[1](https://www.skuola.net/appunti-italiano/leopardi-giacomo/leopardi-pensiero-filosofico-posizione-culturale.html)  [3](https://it.wikipedia.org/wiki/Pensiero_e_poetica_di_Giacomo_Leopardi).

@@ -1,0 +1,4 @@
+- ==**L'amore** e la **giovinezza** sono temi che Leopardi trattò con grande intensità emotiva==. Pur riconoscendo la bellezza di questi aspetti della vita, ne ==sottolinea la **fragilità** e la **mortalità**==
+- ==L'amore è visto come un sentimento che, sebbene sublime e intenso, è destinato a **sfiorire** e ad essere **sopraffatto dal tempo**==. Così, anche ==la giovinezza, che rappresenta il periodo di massima vitalità, è destinata a **sfuggire**==.
+- **Citazione** (da **"A Silvia"**): "Silvia, rimembri ancora / quel tempo della tua vita mortale, / quando bella e piacente / avevi il volto?"
+- Qui Leopardi rievoca la giovinezza e l'amore, ma anche la sua fugacità e il dolore che ne deriva.

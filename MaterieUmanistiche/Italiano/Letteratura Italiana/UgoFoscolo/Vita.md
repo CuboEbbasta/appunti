@@ -19,9 +19,9 @@ Convinto che almeno l’onore, bene irrinunciabile, sia conservabile con le armi
 ==Finirà i suoi giorni in un sobborgo londinese nel 1827==; **nel 1871 le sue spoglie saranno trasferite in Santa Croce di Firenze**, **la chiesa che ospita le tombe dei grandi, com’egli stesso scrive nei Sepolcri**.
 
 ---
-[[Eredità culturale]]
-[[Opere principali]]
-[[Pensiero e Temi principali]]
+[[MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Eredità culturale|Eredità culturale]]
+[[MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Opere principali]]
+[[MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Pensiero e Temi principali/Pensiero e Temi principali]]
 
 
 

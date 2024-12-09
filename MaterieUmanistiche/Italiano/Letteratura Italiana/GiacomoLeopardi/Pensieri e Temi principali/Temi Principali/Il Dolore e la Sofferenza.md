@@ -1,0 +1,3 @@
+- ==**Il dolore** è il tema centrale del pensiero leopardiano. Leopardi considera la sofferenza come una parte **ineluttabile** e **fondamentale** della condizione umana==. In molte sue opere, esplora come il dolore non solo sia inevitabile, ma anche come esso diventi una **costante** della vita.
+- In particolare, ==Leopardi crede che la sofferenza non sia solo fisica, ma anche **spirituale** e **esistenziale**==. La consapevolezza della propria condizione di essere vivente, destinato a soffrire e a morire, è un pensiero che permea gran parte della sua poetica e filosofia.
+- **Citazione** (da **"Zibaldone di pensieri"**): "Il dolore è una delle principali cause del male; ma non è né l’unico né il maggiore."

@@ -1,0 +1,3 @@
+- ==**Il piacere** e la **felicità** sono per Leopardi **illusori** e **transitori**==. Egli crede che ogni esperienza che sembra portare alla felicità non faccia che nascondere una realtà più profonda di delusione e infelicità.
+- ==Leopardi sostiene che l’uomo cerca costantemente il piacere, ma questo è sempre destinato a sfuggire o a essere seguito da nuove sofferenze. La felicità è una chimera, una **mira irraggiungibile**, che svanisce non appena raggiunta==.
+- **Citazione** (da **"A Silvia"**): "O natura, o Natura, perché non rendi / più giovinetto, / e più bello, / chi s'è stancato del mondo?"
