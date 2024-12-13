@@ -1,0 +1,1 @@
+Consiglio di usare Obsidian
