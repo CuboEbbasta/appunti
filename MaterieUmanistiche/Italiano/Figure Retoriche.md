@@ -106,4 +106,4 @@ Z
 **Zeugma**: figura sintattica che consiste nel far dipendere da un unico verbo più termini che richiederebbero ciascuno un verbo specifico.
 
 ---
-[[Poesia]]
+[[MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Poesia]]
