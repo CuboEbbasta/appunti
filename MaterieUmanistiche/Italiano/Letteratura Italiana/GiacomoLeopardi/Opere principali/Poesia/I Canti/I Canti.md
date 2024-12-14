@@ -92,4 +92,15 @@ FASI
 **SECONDA FASE**: [[Canti Pisano-Recanatesi]]
 **TERZA FASE**: [[Ciclo di Aspasia e La Ginestra]]
 
+
 APPUNTI VARI: [[Canti filosofici]]
+
+
+
+
+
+
+
+
+
+

@@ -32,3 +32,14 @@ Le due categorie di poesia, pur apparentemente diverse, sono collegate da alcuni
 ### Conclusione
 
 La prima fase della poesia di Leopardi, quella degli _Idilli_ e delle _Canzoni civili_, è quindi caratterizzata da un delicato equilibrio tra idealismo e disillusione, tra il desiderio di bellezza e l'incontro con la sofferenza e la realtà. In questi testi, Leopardi esplora il rapporto dell'uomo con la natura, l'amore, la giovinezza e il progresso, ma senza rinunciare mai alla consapevolezza della fragilità dell'esistenza umana.
+
+---
+
+POESIE:
+---
+[[L'infinito]]
+[[La sera del dì di festa]]
+[[A Silvia]]
+[[Il sabato del villaggio]]
+[[Canto notturno di un pastore errante dell'Asia]]
+[[Il risorgimento]]

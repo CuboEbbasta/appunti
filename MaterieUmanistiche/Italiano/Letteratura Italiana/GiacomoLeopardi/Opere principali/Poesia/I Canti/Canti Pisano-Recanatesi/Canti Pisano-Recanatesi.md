@@ -41,3 +41,12 @@ In _La quiete dopo la tempesta_, Leopardi descrive il momento che segue una temp
 ### Conclusione
 
 La **seconda fase** dei _Canti_ di Leopardi, quella dei _Canti pisano-recanatesi_, è un periodo di profonda riflessione sul destino dell'uomo, sul passaggio dalla giovinezza alla maturità e sulla consapevolezza della sofferenza come elemento inevitabile della vita. Le poesie di questo periodo segnano il passaggio dal sogno e dall'idealismo alla realtà disillusa, ma anche una maggiore padronanza stilistica e metrica. La natura diventa il contesto in cui Leopardi esplora le proprie riflessioni sulla condizione umana, introducendo tematiche che caratterizzeranno la sua produzione successiva.
+
+---
+
+POESIE:
+---
+[[A un vincitore nel pallone]]
+[[La quiete dopo la tempesta]]
+[[Le ricordanze]]
+[[Alla Luna]]

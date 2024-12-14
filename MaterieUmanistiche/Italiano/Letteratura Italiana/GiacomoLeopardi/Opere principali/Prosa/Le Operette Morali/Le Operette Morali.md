@@ -48,3 +48,4 @@ Le **Operette morali** costituiscono una lettura fondamentale per comprendere il
 [[Dialogo della Natura e di un Islandese]]
 [[Dialogo di Federico Ruysch e delle sue mummie]]
 [[Il Cantico del gallo silvestre]]
+[[Dialogo di un venditore di almanacchi e di un passeggere]]

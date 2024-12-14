@@ -50,3 +50,11 @@ La terza fase, con il Ciclo di Aspasia e _La Ginestra_, affronta tematiche esist
 ### 4. **Conclusione**
 
 La **terza fase** di Leopardi, con il **Ciclo di Aspasia** e **La Ginestra**, segna il culmine della sua riflessione esistenziale. La consapevolezza della condizione tragica dell'uomo, unita a una nuova visione della natura e a una critica alle illusioni di speranza, conduce il poeta a un pessimismo radicale ma anche a un'affermazione della dignità umana nel suo scontro con la realtà. La solidarietà, pur non realizzabile in concreto, diventa una forma di resistenza alla crudeltà del destino, un modo per dare un senso a un'esistenza che, per Leopardi, è segnata dalla sofferenza ma anche dalla possibilità di affrontarla con coraggio e consapevolezza.
+
+---
+
+POESIE:
+---
+[[A se stesso]]
+[[La ginestra, o il fiore del deserto]]
+[[Aspasia]]

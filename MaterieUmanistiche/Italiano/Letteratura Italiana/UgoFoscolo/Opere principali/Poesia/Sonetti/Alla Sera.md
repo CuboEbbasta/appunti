@@ -1,7 +1,7 @@
 _**Alla sera**_ è un componimento pubblicato da [Ugo Foscolo](https://it.wikipedia.org/wiki/Ugo_Foscolo) nell’aprile **1803** e composto nei sei mesi precedenti alla sua uscita. Fa parte dell’**edizione definitiva delle _Poesie_**_,_ inserito dall’autore nella posizione di testa. Foscolo decide di collocare _Alla sera_ come primo sonetto della raccolta come premessa a un momento di turbamento umano e politico affrontati in quel periodo. In questa poesia, che riprende **tematiche** già viste nelle [_Ultime lettere di Jacopo Ortis_](https://www.sololibri.net/Le-ultime-lettere-di-Jacopo-Ortis.html), [Foscolo](https://www.sololibri.net/Foscolo-cose-da-sapere-vita-opere-poesie.html) parla di come **la sera**, **momento** della **giornata silenzioso e immobile**, **offra un’immagine momentanea dello sparire di ogni forma di vita**. Il momento del **crepuscolo** in questa poesia **non è avvertito** dall’autore **come una sfida drammatica a cui lo sottopone il destino**, **ma come un dolce perdersi della vita stessa**.
 
 #Testo 
->Forse perché della fatal quïete  
+Forse perché della fatal quïete  
 >Tu sei l’immago a me sì cara, vieni,  
 >O Sera! E quando ti corteggian liete  
 >Le nubi estive e i zeffiri sereni,
