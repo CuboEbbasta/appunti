@@ -115,7 +115,7 @@ Kant intende per **minorità** uno stato di dipendenza da autorità esterne (rel
 
 **FILOSOFI:
 ---
-VOLTAIRE**: [[Voltaire]]
+VOLTAIRE: [[Voltaire]]
 
 **ROSSEAU**: [[Rosseau]]
 
