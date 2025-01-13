@@ -8,3 +8,4 @@ Alla fine, Candido si riunisce con Cunegonda e altri personaggi, ma scopre che l
 **Significato**  
 Il _Candido_ è una feroce satira contro l'ottimismo metafisico di Leibniz e la visione secondo cui il male è giustificabile in un più ampio disegno divino. Voltaire critica l'idea che il dolore e la sofferenza abbiano un senso intrinseco, invitando invece alla razionalità pratica e al miglioramento attivo della vita.  
 Attraverso una narrazione ironica e spesso paradossale, il racconto denuncia la guerra, il fanatismo religioso, l'avidità, e l'ingiustizia sociale, dimostrando come gli esseri umani debbano affidarsi alla ragione e all'azione concreta per affrontare i mali del mondo.
+

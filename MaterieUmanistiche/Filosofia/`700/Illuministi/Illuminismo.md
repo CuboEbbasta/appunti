@@ -122,3 +122,5 @@ VOLTAIRE: [[Voltaire]]
 **BECCARIA**: [[Beccaria]]
 
 **KANT**: [[Kant]]
+
+**FRATELLI VERRI**: [[Fratelli Verri]]
