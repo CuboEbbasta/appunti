@@ -1,0 +1,3 @@
+L'opera di Shakespeare ha avuto un impatto immenso sulla letteratura, sul teatro e sulla lingua inglese. Molti dei suoi termini e frasi sono diventati parte del linguaggio quotidiano, e le sue opere sono ancora oggi rappresentate in tutto il mondo, sia in forma teatrale che cinematografica. Shakespeare ha contribuito a modellare la **lingua inglese moderna**, introducendo nuove parole e espressioni.
+
+Il suo genio ha ispirato numerosi autori e artisti, e le sue opere continuano a esplorare temi universali come l'amore, il potere, la vendetta, il tradimento e la natura umana, rendendolo una figura senza tempo nella storia della letteratura.
