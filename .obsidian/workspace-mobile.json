@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "a326c221f2b089e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "765ac127016af1c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "230dfe98881705a4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62ed08c2029d86b0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f4b22180e3bf2e8e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "71c1b533fad70e2a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "90be1a5dbd3123c0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d4c9990845978f0b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cd1e320260d1880c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "adfe78f4d010d317",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "47bc68529ed6887c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi/ImmanuelKant/Vita.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "b167d2e3483da56b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi/ImmanuelKant/Vita.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d4c9990845978f0b",
+  "lastOpenFiles": [
+    "MaterieUmanistiche/Filosofia/`700/Illuministi/Italiani/FratelliVerri/AlessandroVerri/Alessandro Verri.md",
+    "MaterieUmanistiche/Filosofia/`700/Illuministi/Francesi/Voltaire/Pensiero.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Giacomo Leopardi.md",
+    "MaterieUmanistiche/Filosofia/`700/Illuministi/Francesi/Voltaire/Vita.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Saggi e Prose/Discorso sul testo della Divina Commedia.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Saggi e Prose/Saggi e Prose.md",
+    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Industriale.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Sonetti/A Zacinto.md",
+    "MaterieUmanistiche/Storia/Storia.md",
+    "MaterieUmanistiche/Filosofia/`700/Illuministi/Italiani/CesareBeccaria/Dei Delitti e delle Pene.md",
+    "MaterieUmanistiche/Storia/`700/Settecento.md",
+    "MaterieUmanistiche/Filosofia/'800/Nietzsche/Appunti random intanto.md",
+    "MaterieUmanistiche/Filosofia/Filosofia.md",
+    "MaterieUmanistiche/Filosofia/'800/Nietzsche",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Prosa/Le Operette Morali/Dialogo della Natura e di un Islandese.md",
+    "MaterieUmanistiche/Filosofia/'800",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Pessimismi/Pessimismo cosmico.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/I Canti.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/A Silvia.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/Canto notturno di un pastore errante dell'Asia.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Prosa/Le Operette Morali/Dialogo di un venditore di almanacchi e di un passeggere.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/Le ricordanze.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/La sera del dì di festa.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/La ginestra, o il fiore del deserto.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/L'infinito.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/La quiete dopo la tempesta.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/Il sabato del villaggio.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/Il risorgimento.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Vita",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Temi Principali",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Pessimismi",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi",
+    "Godopoli"
+  ]
+}

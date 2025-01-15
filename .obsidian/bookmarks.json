@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1736675859119,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1736675882369,
+          "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Francesi/Voltaire/Voltaire.md",
+          "title": "Voltaire"
+        },
+        {
+          "type": "file",
+          "ctime": 1736675901027,
+          "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Italiani/CesareBeccaria/Beccaria.md",
+          "title": "Beccaria"
+        },
+        {
+          "type": "file",
+          "ctime": 1736675969602,
+          "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Italiani/FratelliVerri/AlessandroVerri/Alessandro Verri.md",
+          "title": "Alessandro Verri"
+        },
+        {
+          "type": "file",
+          "ctime": 1736675989258,
+          "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Italiani/FratelliVerri/PietroVerri/Pietro Verri.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1736676001564,
+          "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Svizzeri/Jean-JacquesRosseau/Rosseau.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1736676012297,
+          "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi/ImmanuelKant/Kant.md"
+        }
+      ],
+      "title": "Filosofi Illuministi"
+    },
+    {
+      "type": "group",
+      "ctime": 1736675764090,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1736675828486,
+          "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Ugo Foscolo.md",
+          "title": "Foscolo"
+        },
+        {
+          "type": "file",
+          "ctime": 1736675845843,
+          "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Giacomo Leopardi.md",
+          "title": "Leopardi"
+        }
+      ],
+      "title": "Autori Italiani"
+    },
+    {
+      "type": "group",
+      "ctime": 1736883818301,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1736883876608,
+          "path": "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/William Shakespeare.md"
+        }
+      ],
+      "title": "Autori Inglesi"
+    },
+    {
+      "type": "group",
+      "ctime": 1736676088849,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1736676106824,
+          "path": "MaterieUmanistiche/Storia/`700/Settecento.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1736676117818,
+          "path": "MaterieUmanistiche/Storia/`600/Seicento.md"
+        }
+      ],
+      "title": "Periodi Storici"
+    }
+  ]
+}

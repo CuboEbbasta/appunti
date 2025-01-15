@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:MaterieUmanistiche/Italiano  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:MaterieUmanistiche/Storia  ",
+      "color": {
+        "a": 1,
+        "rgb": 12421632
+      }
+    },
+    {
+      "query": "path:MaterieUmanistiche/Filosofia  ",
+      "color": {
+        "a": 1,
+        "rgb": 8147680
+      }
+    },
+    {
+      "query": "path:MaterieScientifiche/Informatica/TPS  ",
+      "color": {
+        "a": 1,
+        "rgb": 20993
+      }
+    },
+    {
+      "query": "path:\"MaterieScientifiche/Informatica/Sistemi e Reti\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11757568
+      }
+    },
+    {
+      "query": "path:MaterieScientifiche/Informatica  ",
+      "color": {
+        "a": 1,
+        "rgb": 135109
+      }
+    },
+    {
+      "query": "path:MaterieUmanistiche/Inglese  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.5334256633505182,
+  "close": true
+}

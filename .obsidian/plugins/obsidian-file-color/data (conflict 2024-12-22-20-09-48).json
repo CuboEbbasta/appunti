@@ -1,0 +1,688 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "ESCFW5xWC_2N4VBgMDXaE",
+      "name": "Bianco",
+      "value": "#ffffff"
+    },
+    {
+      "id": "8qI7ek44KYNSXPadheaWi",
+      "name": "Beige chiaro",
+      "value": "#f5f0dc"
+    },
+    {
+      "id": "XS0ayWjkKhD9X-hN3Fpq0",
+      "name": "Crema",
+      "value": "#fffdd0"
+    },
+    {
+      "id": "UkGy2-67m8zmYQ9ik-Ngn",
+      "name": "Marrone chiaro",
+      "value": "#ba975d"
+    },
+    {
+      "id": "Jc-s0aBYQuMuoGhjQAChz",
+      "name": "Grigio caldo",
+      "value": "#a9a9a9"
+    },
+    {
+      "id": "McpGIKQz02p12IGTA2Zdj",
+      "name": "Sabbia",
+      "value": "#c2b280"
+    },
+    {
+      "id": "modBFx_OhRf6gD3l9UF-H",
+      "name": "Panna",
+      "value": "#ffefba"
+    },
+    {
+      "id": "fN2bFSNmuIPLXd3wNAMWU",
+      "name": "Verde salvia",
+      "value": "#b6beac"
+    },
+    {
+      "id": "GjKiEOkRoHNipMmZ4iesx",
+      "name": "Tortora",
+      "value": "#a99a83"
+    },
+    {
+      "id": "ssjkTyJM4J1Z58BYvWJZT",
+      "name": "Blu polvere",
+      "value": "#b0bfcd"
+    },
+    {
+      "id": "xvqtSt7LlBSI5ZDaJ2ZsR",
+      "name": "Rosa polvere",
+      "value": "#eacfc0"
+    },
+    {
+      "id": "n4K9v6QWltGjm3RrDyLXG",
+      "name": "Giallo senape chiaro",
+      "value": "#dcbe7a"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "MaterieUmanistiche",
+      "color": "ESCFW5xWC_2N4VBgMDXaE"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia",
+      "color": "8qI7ek44KYNSXPadheaWi"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano",
+      "color": "8qI7ek44KYNSXPadheaWi"
+    },
+    {
+      "path": "MaterieUmanistiche/Storia",
+      "color": "8qI7ek44KYNSXPadheaWi"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/Filosofia.md",
+      "color": "XS0ayWjkKhD9X-hN3Fpq0"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700",
+      "color": "XS0ayWjkKhD9X-hN3Fpq0"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana",
+      "color": "XS0ayWjkKhD9X-hN3Fpq0"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Figure Retoriche.md",
+      "color": "XS0ayWjkKhD9X-hN3Fpq0"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Italiano.md",
+      "color": "XS0ayWjkKhD9X-hN3Fpq0"
+    },
+    {
+      "path": "MaterieUmanistiche/Storia/`600",
+      "color": "XS0ayWjkKhD9X-hN3Fpq0"
+    },
+    {
+      "path": "MaterieUmanistiche/Storia/`700",
+      "color": "XS0ayWjkKhD9X-hN3Fpq0"
+    },
+    {
+      "path": "MaterieUmanistiche/Storia/Storia.md",
+      "color": "XS0ayWjkKhD9X-hN3Fpq0"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi",
+      "color": "UkGy2-67m8zmYQ9ik-Ngn"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi",
+      "color": "UkGy2-67m8zmYQ9ik-Ngn"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo",
+      "color": "UkGy2-67m8zmYQ9ik-Ngn"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/Letteratura italiana.md",
+      "color": "UkGy2-67m8zmYQ9ik-Ngn"
+    },
+    {
+      "path": "MaterieUmanistiche/Storia/`600/Europa",
+      "color": "UkGy2-67m8zmYQ9ik-Ngn"
+    },
+    {
+      "path": "MaterieUmanistiche/Storia/`600/Seicento.md",
+      "color": "UkGy2-67m8zmYQ9ik-Ngn"
+    },
+    {
+      "path": "MaterieUmanistiche/Storia/`700/Europa",
+      "color": "UkGy2-67m8zmYQ9ik-Ngn"
+    },
+    {
+      "path": "MaterieUmanistiche/Storia/`700/Settecento.md",
+      "color": "UkGy2-67m8zmYQ9ik-Ngn"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Francesi",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Italiani",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Svizzeri",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Illuminismo.md",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Francesi/Voltaire",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Italiani/CesareBeccaria",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Svizzeri/Jean-JacquesRosseau",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi/ImmanuelKant",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Francesi/Voltaire/Opere",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Francesi/Voltaire/Pensiero.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Francesi/Voltaire/Vita.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Francesi/Voltaire/Voltaire.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Francesi/Voltaire/Opere/Candido.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Francesi/Voltaire/Opere/Micromega.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Italiani/CesareBeccaria/Beccaria.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Italiani/CesareBeccaria/Dei Delitti e delle Pene.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Italiani/CesareBeccaria/Pensiero.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Italiani/CesareBeccaria/Vita.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Svizzeri/Jean-JacquesRosseau/Pensiero.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Svizzeri/Jean-JacquesRosseau/Rosseau.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Svizzeri/Jean-JacquesRosseau/Vita.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi/ImmanuelKant/Opere",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi/ImmanuelKant/Kant.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi/ImmanuelKant/Pensiero.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi/ImmanuelKant/Vita.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi/ImmanuelKant/Opere/Critica del giudizio.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi/ImmanuelKant/Opere/Critica della ragion pratica.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi/ImmanuelKant/Opere/Critica della ragion pura.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi/ImmanuelKant/Opere/Fondatore della metafisica dei costumi.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi/ImmanuelKant/Opere/Per la pace perpetua.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Vita",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Eredità culturale.md",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Giacomo Leopardi.md",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Prosa",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Opere principali.md",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Pessimismi",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Temi Principali",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Pensieri e Temi principali.md",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Vita/Vita.md",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Vita/Fuga da Recanati.md",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/Appunti vari",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/Le ultime opere",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/Poesia.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/Appunti vari/Canti filosofici",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/Appunti vari/Canti filosofici/Canti filosofici.md",
+      "color": "GjKiEOkRoHNipMmZ4iesx"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Canti Pisano-Recanatesi",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Ciclo di Aspasia e La Ginestra",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Idilli e Canzoni Civili",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/I Canti.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Canti Pisano-Recanatesi/Canti Pisano-Recanatesi.md",
+      "color": "GjKiEOkRoHNipMmZ4iesx"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Ciclo di Aspasia e La Ginestra/Ciclo di Aspasia e La Ginestra.md",
+      "color": "GjKiEOkRoHNipMmZ4iesx"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Idilli e Canzoni Civili/Idilli e Canzoni Civili.md",
+      "color": "GjKiEOkRoHNipMmZ4iesx"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/L'infinito.md",
+      "color": "GjKiEOkRoHNipMmZ4iesx"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/La sera del dì di festa.md",
+      "color": "GjKiEOkRoHNipMmZ4iesx"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/A Silvia.md",
+      "color": "GjKiEOkRoHNipMmZ4iesx"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/Il sabato del villaggio.md",
+      "color": "GjKiEOkRoHNipMmZ4iesx"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/Canto notturno di un pastore errante dell'Asia.md",
+      "color": "GjKiEOkRoHNipMmZ4iesx"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/Il risorgimento.md",
+      "color": "GjKiEOkRoHNipMmZ4iesx"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/A un vincitore nel pallone.md",
+      "color": "GjKiEOkRoHNipMmZ4iesx"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/A se stesso.md",
+      "color": "GjKiEOkRoHNipMmZ4iesx"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/La quiete dopo la tempesta.md",
+      "color": "GjKiEOkRoHNipMmZ4iesx"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/Le ricordanze.md",
+      "color": "GjKiEOkRoHNipMmZ4iesx"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/La ginestra, o il fiore del deserto.md",
+      "color": "GjKiEOkRoHNipMmZ4iesx"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/Alla Luna.md",
+      "color": "GjKiEOkRoHNipMmZ4iesx"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/Aspasia.md",
+      "color": "GjKiEOkRoHNipMmZ4iesx"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/Le ultime opere/Le ultime opere.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Prosa/Epistolario",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Prosa/Le Operette Morali",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Prosa/Zibaldone di pensieri",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Prosa/Prosa.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Prosa/Epistolario/Epistolario.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Prosa/Le Operette Morali/Le Operette Morali.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Prosa/Le Operette Morali/Il Cantico del gallo silvestre.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Prosa/Le Operette Morali/Dialogo della Natura e di un Islandese.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Prosa/Le Operette Morali/Dialogo di Federico Ruysch e delle sue mummie.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Prosa/Le Operette Morali/Dialogo di un venditore di almanacchi e di un passeggere.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Prosa/Zibaldone di pensieri/Zibaldone di pensieri.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Pessimismi/Pessimismo individuale.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Pessimismi/Pessimismo storico.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Pessimismi/Pessimismo cosmico.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Pessimismi/Pessimismo eroico.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Pessimismi/Solidarietà Umana.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Temi Principali/La Teoria del Piacere.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Temi Principali/La Natura.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Temi Principali/Il Dolore e la Sofferenza.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Temi Principali/L'Illusorietà del Piacere e della Felicità.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Temi Principali/La Conoscenza.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Temi Principali/Transitorietà della vita.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Temi Principali/L'Amore e la Giovinezza.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Temi Principali/Infinito e Desiderio.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Pensiero e Temi principali",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Eredità culturale.md",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Ugo Foscolo.md",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Vita.md",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Saggi e Prose",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Teatro",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Opere principali.md",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Sonetti",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/I Sepolcri.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Le Grazie.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Le Odi.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Le Ultime Lettere di Jacopo Ortis.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Poesia.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Sonetti/A Zacinto.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Sonetti/Alla Musa.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Sonetti/Alla Sera.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Sonetti/In morte del fratello Giovanni.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Sonetti/Sonetti.md",
+      "color": "fN2bFSNmuIPLXd3wNAMWU"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Saggi e Prose/Discorso sul testo della Divina Commedia.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Saggi e Prose/Lettere e articoli di critica letteraria.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Saggi e Prose/Saggi e Prose.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Teatro/Ajace.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Teatro/Ricciarda.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Teatro/Teatro.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Pensiero e Temi principali/Importanza della Memoria.md",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Pensiero e Temi principali/Materialismo e Ateismo.md",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Pensiero e Temi principali/Patriottismo e Impegno Civile.md",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Pensiero e Temi principali/Pensiero e Temi principali.md",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Pensiero e Temi principali/Tra Neoclassicismo e Romanticismo.md",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Storia/`600/Europa/RivoluzioneInglese",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Storia/`600/Europa/RivoluzioneInglese/PrimaRivoluzione",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Storia/`600/Europa/RivoluzioneInglese/SecondaRivoluzione",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Storia/`600/Europa/RivoluzioneInglese/Rivoluzione Inglese.md",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    },
+    {
+      "path": "MaterieUmanistiche/Storia/`600/Europa/RivoluzioneInglese/PrimaRivoluzione/Prima Rivoluzione Inglese.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Storia/`600/Europa/RivoluzioneInglese/SecondaRivoluzione/Seconda Rivoluzione Inglese.md",
+      "color": "modBFx_OhRf6gD3l9UF-H"
+    },
+    {
+      "path": "MaterieUmanistiche/Storia/`700/Europa/RivoluzioneFrancese",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Storia/`700/Europa/RivoluzioneFrancese/Rivoluzione Francese.md",
+      "color": "McpGIKQz02p12IGTA2Zdj"
+    }
+  ]
+}

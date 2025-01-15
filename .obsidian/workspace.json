@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "639fab022df7f5ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "7549b2a8d16ecf91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44bb580589ea83c9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f82184848c2a41da",
+    "type": "split",
+    "children": [
+      {
+        "id": "b43b67ca781c4b50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1587a4a2ef718dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "af0f5c5f3401d7ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "5361a67597ea5a7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5026054382324
+  },
+  "right": {
+    "id": "d99b5d59f1db53fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "acbd1ff3bb0c353f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb162918099a8663",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "103b60c1121f8fbe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "3f4cb85edcd207c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "fb8f38d01c9d1e18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e reti(Internetworking).pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Sistemi e reti(Internetworking)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "canvas:Crea nuova lavagna": false,
+      "graph:Apri vista grafo": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "44bb580589ea83c9",
+  "lastOpenFiles": [
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Protocollo IP.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Routing e Forwarding.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e reti(Internetworking).pdf",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e Reti.md",
+    "Senza nome.md",
+    "MaterieScientifiche/Informatica/Java/Libro e Appunti/JavaIO.pdf",
+    "MaterieScientifiche/Informatica/Java/Libro e Appunti/Note/Note1.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/Senza nome.md",
+    "MaterieScientifiche/Informatica/Informatica.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Senza nome.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti",
+    "MaterieScientifiche/Informatica/TPS/TPS (in teoria).md",
+    "MaterieScientifiche/Informatica/TPS/PDF/Coding Rules/CODING RULES_new.pdf",
+    "MaterieScientifiche/Informatica/TPS/PDF/Coding Rules/CODING RULES_new.pptx",
+    "MaterieScientifiche/Informatica/TPS/PDF/Verifica e Validazione del software/V&V.pdf",
+    "MaterieScientifiche/Informatica/TPS/PDF/Il controllo delle Versioni/Il controllo delle Versioni.pdf",
+    "MaterieScientifiche/Informatica/TPS/PDF/Coding Rules",
+    "MaterieUmanistiche/Storia/`700/Europa/RivoluzioneFrancese/Rivoluzione Francese.md",
+    "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi/ImmanuelKant/Opere/Critica della ragion pratica.md",
+    "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/William Shakespeare.md",
+    "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Opere principali/Teatro/Romeo e Giulietta.md",
+    "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Opere principali/Teatro/Amleto.md",
+    "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Opere principali/Teatro/MacBeth.md",
+    "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Opere principali/Teatro/Il mercante di Venezia.md",
+    "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Opere principali/Teatro/Analisi personali/Analisi personale dell' amore in Shakespeare.md",
+    "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Opere principali/Teatro/Analisi personali/Analisi personale tra Amleto, MacBeth e Il mercante di Venezia.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Vita.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Ugo Foscolo.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Sonetti/Alla Sera.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Le Ultime Lettere di Jacopo Ortis.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Poesia.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Le Grazie.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/I Sepolcri.md",
+    "MaterieUmanistiche/Storia/`700/Europa/Senza nome.canvas"
+  ]
+}
