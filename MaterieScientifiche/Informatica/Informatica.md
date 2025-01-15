@@ -71,3 +71,4 @@ L'**informatica** è la scienza che si occupa dello studio dei sistemi di elabor
 
 [[TPS (in teoria)]]
 [[Java]]
+[[Sistemi e Reti]]

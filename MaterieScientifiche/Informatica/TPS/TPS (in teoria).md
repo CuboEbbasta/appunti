@@ -58,3 +58,12 @@ In informatica, **TPS** si riferisce a **Tecnologie, Progettazione e Sistemi**, 
 **SRS**:
 [[Documento SRS]]
 [[Sviluppo Software.pdf]]
+
+**V&V**:
+[[V&V.pdf]]
+
+**IL CONTROLLO DELLE VERSIONI**:
+[[Il controllo delle Versioni.pdf]]
+
+**CODING RULES**:
+[[CODING RULES_new.pdf]]
