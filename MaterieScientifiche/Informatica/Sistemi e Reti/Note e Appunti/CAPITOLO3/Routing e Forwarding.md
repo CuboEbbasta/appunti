@@ -57,4 +57,5 @@ Il **==Network Layer==** può ==offrire== sia ==servizi== connessi (==connection
 > [!PDF|] [[Sistemi e reti(Internetworking).pdf#page=118&selection=6,0,18,34|Il principale protocollo del livello Network nelle reti TCP/IP è Internet Protocol (IP), usato per trasferire i dati nella rete WAN. Sempre in questo livello sono stati specificati anche alcuni #protocolli di controllo come ARP, RARP, ICMP, i pro tocolli di routing e altri ancora.]]
 > > Il principale protocollo del livello Network nelle reti TCP/IP è Internet Protocol (IP), usato per trasferire i dati nella rete WAN. Sempre in questo livello sono stati specificati anche alcuni **protocolli di controllo** come ARP, RARP, ICMP, i protocolli di routing e altri ancora.
 
+---
 [[Protocollo IP]]

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7549b2a8d16ecf91",
+        "id": "b7d650f7d05339b5",
         "type": "tabs",
         "children": [
           {
-            "id": "44bb580589ea83c9",
+            "id": "fcb501d17ad0333d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/Indirizzi IPv6.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Indirizzi IPv6"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/Indirizzi IPv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti"
+              "title": "Riferimenti a Indirizzi IPv6"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/Indirizzi IPv6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita"
+              "title": "Collegamenti in uscita da Indirizzi IPv6"
             }
           },
           {
@@ -158,12 +164,26 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "44bb580589ea83c9",
+  "active": "fcb501d17ad0333d",
   "lastOpenFiles": [
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/IPv6.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/VLSM.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Supernetting.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Subnetting.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Struttura degli indirizzi IP.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e reti(Internetworking).pdf",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Protocollo IP.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Routing e Forwarding.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e reti(Internetworking).pdf",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/Indirizzi IPv6.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e Reti.md",
+    "MaterieScientifiche/Informatica/TPS/PDF/Coding Rules/CODING RULES_new.pdf",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/Alla Luna.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/La sera del dì di festa.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/Il sabato del villaggio.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/Il risorgimento.md",
+    "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Opere principali/Teatro/Analisi personali/Analisi personale dell' amore in Shakespeare.md",
+    "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Opere principali/Teatro/Analisi personali/Analisi personale tra Amleto, MacBeth e Il mercante di Venezia.md",
     "Senza nome.md",
     "MaterieScientifiche/Informatica/Java/Libro e Appunti/JavaIO.pdf",
     "MaterieScientifiche/Informatica/Java/Libro e Appunti/Note/Note1.md",
@@ -174,27 +194,13 @@
     "MaterieScientifiche/Informatica/Sistemi e Reti/Senza nome.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti",
     "MaterieScientifiche/Informatica/TPS/TPS (in teoria).md",
-    "MaterieScientifiche/Informatica/TPS/PDF/Coding Rules/CODING RULES_new.pdf",
     "MaterieScientifiche/Informatica/TPS/PDF/Coding Rules/CODING RULES_new.pptx",
     "MaterieScientifiche/Informatica/TPS/PDF/Verifica e Validazione del software/V&V.pdf",
     "MaterieScientifiche/Informatica/TPS/PDF/Il controllo delle Versioni/Il controllo delle Versioni.pdf",
-    "MaterieScientifiche/Informatica/TPS/PDF/Coding Rules",
     "MaterieUmanistiche/Storia/`700/Europa/RivoluzioneFrancese/Rivoluzione Francese.md",
     "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi/ImmanuelKant/Opere/Critica della ragion pratica.md",
     "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/William Shakespeare.md",
     "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Opere principali/Teatro/Romeo e Giulietta.md",
-    "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Opere principali/Teatro/Amleto.md",
-    "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Opere principali/Teatro/MacBeth.md",
-    "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Opere principali/Teatro/Il mercante di Venezia.md",
-    "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Opere principali/Teatro/Analisi personali/Analisi personale dell' amore in Shakespeare.md",
-    "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Opere principali/Teatro/Analisi personali/Analisi personale tra Amleto, MacBeth e Il mercante di Venezia.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Vita.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Ugo Foscolo.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Sonetti/Alla Sera.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Le Ultime Lettere di Jacopo Ortis.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Poesia.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Le Grazie.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/I Sepolcri.md",
     "MaterieUmanistiche/Storia/`700/Europa/Senza nome.canvas"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": true,
@@ -29,24 +29,10 @@
       }
     },
     {
-      "query": "path:MaterieUmanistiche/Inglese  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
       "query": "path:MaterieScientifiche/Informatica/TPS  ",
       "color": {
         "a": 1,
         "rgb": 20993
-      }
-    },
-    {
-      "query": "path:\"MaterieScientifiche/Informatica/Sistemi e Reti\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
       }
     },
     {
@@ -67,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.706902467604755,
+  "scale": 0.5168136889956187,
   "close": true
 }
