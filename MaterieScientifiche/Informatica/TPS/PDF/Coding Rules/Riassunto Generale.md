@@ -1,13 +1,13 @@
 ## **Regole di Codifica**
 
-Le regole di codifica definiscono linee guida per scrivere codice leggibile, mantenibile e privo di errori.
+==Le regole di codifica **definiscono linee guida per scrivere codice** leggibile, mantenibile e privo di errori==.
 
 ### **Scopi principali**:
 
-1. **Leggibilità**: Facilitare la comprensione del codice a tutti i membri del team.
-2. **Manutenibilità**: Rendere il codice più semplice da aggiornare o correggere.
-3. **Uniformità**: Evitare stili di codifica incoerenti tra i programmatori.
-4. **Prevenzione degli errori**: Riducono la probabilità di bug legati a cattive pratiche.
+1. **Leggibilità**: ==Facilitare la comprensione del codice== a tutti i membri del team.
+2. **Manutenibilità**: ==Rendere il codice più semplice da aggiornare o correggere==.
+3. **Uniformità**: ==Evitare stili di codifica incoerenti tra i programmatori==.
+4. **Prevenzione degli errori**: ==Riducono la probabilità di bug legati a cattive pratiche==.
 
 Esempio:
 
@@ -18,7 +18,7 @@ Esempio:
 
 ## **Guide di Stile**
 
-Le guide di stile forniscono regole specifiche per scrivere codice seguendo standard ben definiti.
+==Le guide di stile forniscono regole specifiche== per scrivere codice seguendo standard ben definiti.
 
 ### **Macro tipologie di regole**:
 

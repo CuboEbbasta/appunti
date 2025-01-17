@@ -1,6 +1,6 @@
 ### **Controllo delle Versioni**
 
-Il controllo delle versioni è il processo di gestione delle modifiche al codice sorgente o ad altri documenti digitali. È fondamentale per collaborare in team e mantenere uno storico delle modifiche.
+==Il controllo delle versioni è il processo di gestione delle modifiche== **al codice sorgente o ad altri documenti digitali**. ==**È fondamentale per collaborare in team e mantenere uno storico delle modifiche**==.
 
 **Scopi principali**:
 
@@ -28,6 +28,9 @@ Il sistema di numerazione delle versioni segue il formato **MAJOR.MINOR.PATCH**,
 
 ### **Sistemi di Versionamento**
 
+==Un sistema di controllo di versione== (VCS, Version Control System) ==consente di gestire le modifiche apportate ai file di un progetto su cui tipicamente lavorano più persone==.
+Lo scopo di un VCS è di ==realizzare una corretta gestione delle modifiche garantendo le seguenti caratteristiche==:
+
 1. **Reversibilità**:
     - Permette di tornare a una versione precedente del codice.
 2. **Concorrenza**:
@@ -37,15 +40,16 @@ Il sistema di numerazione delle versioni segue il formato **MAJOR.MINOR.PATCH**,
 
 ---
 
+Per **gestire le modifiche** apportate ai ==file con più persone==, si utilizzano:
 ### **Branch e Fork**
 
 1. **Branch**:
-    - Un branch è una linea di sviluppo separata. Permette di lavorare su nuove funzionalità o correzioni senza interferire con il codice principale.
+    - Un branch è una ==linea di sviluppo separata==. Permette di lavorare su nuove funzionalità o correzioni senza interferire con il codice principale.
     - Esempio:
         - Branch `main`: Codice stabile.
         - Branch `feature-x`: Lavoro su una nuova funzionalità.
 2. **Fork**:
-    - Una copia di un repository che risiede sotto un diverso account o organizzazione. È utile per collaborazioni su progetti open source.
+    - Una ==copia di un repository== che risiede ==sotto un diverso account o organizzazione==. È utile per collaborazioni su progetti open source.
 
 ---
 
@@ -53,7 +57,7 @@ Il sistema di numerazione delle versioni segue il formato **MAJOR.MINOR.PATCH**,
 
 1. **Sistemi Centralizzati**:
     - Es.: Subversion (SVN).
-    - Il repository è centralizzato su un unico server.
+    - ==Il repository è centralizzato su un unico server==.
     - Pro:
         - Semplicità di configurazione.
     - Contro:
@@ -61,7 +65,7 @@ Il sistema di numerazione delle versioni segue il formato **MAJOR.MINOR.PATCH**,
         - Difficoltà nel lavorare offline.
 2. **Sistemi Distribuiti**:
     - Es.: Git.
-    - Ogni sviluppatore ha una copia completa del repository.
+    - ==Ogni sviluppatore ha una copia completa del repository==.
     - Pro:
         - Maggiore flessibilità e resilienza.
         - Supporto migliore per il lavoro offline.
@@ -70,7 +74,7 @@ Il sistema di numerazione delle versioni segue il formato **MAJOR.MINOR.PATCH**,
 
 ### **SVN (Subversion)**
 
-SVN è un sistema di controllo delle versioni centralizzato.
+==SVN è un sistema di controllo delle versioni centralizzato==.
 
 - **Caratteristiche principali**:
     - Tutti i file e le modifiche sono memorizzati su un server centrale.
@@ -84,7 +88,7 @@ SVN è un sistema di controllo delle versioni centralizzato.
 
 ### **Git**
 
-Git è un sistema di controllo delle versioni distribuito, popolare per il lavoro collaborativo.
+==Git è un sistema di controllo delle versioni distribuito, popolare per il lavoro collaborativo==.
 
 #### **Comandi principali per lavorare in team con Git**
 
@@ -113,18 +117,19 @@ Git è un sistema di controllo delle versioni distribuito, popolare per il lavor
 
 ### **GitLab e GitHub**
 
-Entrambe sono piattaforme basate su Git per la gestione di repository remoti.  
+==Entrambe sono piattaforme basate su Git per la gestione di repository remoti==.  
 **Differenze principali**:
 
 1. **GitHub**:
-    - Maggiormente orientato ai progetti open source.
+    - ==Maggiormente orientato ai progetti open source==.
     - Offre una vasta comunità e integrazione con altre piattaforme.
 2. **GitLab**:
     - Si concentra sull'integrazione continua (CI/CD).
     - Offre funzionalità più robuste per l'automazione dei workflow.
+    - ==Self-hostabile==(Puoi mettere GitLab sul tuo server)
 
 **Caratteristiche comuni**:
 
-- Interfacce web per la gestione dei repository.
+- ==Interfacce web per la gestione dei repository==.
 - Strumenti per le Pull Request (GitHub) o Merge Request (GitLab).
 - Hosting di repository pubblici e privati.
