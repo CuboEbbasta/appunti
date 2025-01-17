@@ -13,3 +13,6 @@ I principali periodi della letteratura inglese includono:
 9. **Postmodernismo**: A partire dalla metà del XX secolo, con autori come Samuel Beckett e Ian McEwan.
 
 La letteratura inglese esplora temi universali come l'amore, il potere, la morte, la giustizia, la libertà e la condizione umana, spesso influenzata dalle trasformazioni politiche, sociali e culturali dell'Inghilterra e dei paesi di lingua inglese.
+
+---
+[[William Shakespeare]]

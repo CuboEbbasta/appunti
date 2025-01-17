@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b7d650f7d05339b5",
+        "id": "9bc3ae87cbf40a70",
         "type": "tabs",
         "children": [
           {
-            "id": "fcb501d17ad0333d",
+            "id": "5d8612b17ba77339",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/Indirizzi IPv6.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Indirizzi IPv6"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/Indirizzi IPv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Indirizzi IPv6"
+              "title": "Riferimenti"
             }
           },
           {
@@ -149,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +160,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "fcb501d17ad0333d",
+  "active": "5d8612b17ba77339",
   "lastOpenFiles": [
+    "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Vita.md",
+    "MaterieUmanistiche/Italiano/Italiano.md",
+    "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/William Shakespeare.md",
+    "MaterieUmanistiche/Inglese/Letteratura Inglese/Letteratura inglese.md",
+    "MaterieUmanistiche/Inglese/Inglese.md",
+    "MaterieUmanistiche/Materie Umanistiche.md",
+    "MaterieScientifiche/Informatica/TPS/PDF/Il controllo delle Versioni/Riassunto Generale.md",
+    "MaterieScientifiche/Informatica/TPS/TPS (in teoria).md",
+    "MaterieScientifiche/Informatica/TPS/PDF/Il controllo delle Versioni/Il controllo delle Versioni.pdf",
+    "MaterieScientifiche/Informatica/TPS/PDF/Verifica e Validazione del software/Riassunto Generale.md",
+    "MaterieScientifiche/Informatica/TPS/PDF/Verifica e Validazione del software/V&V.pdf",
+    "MaterieScientifiche/Informatica/TPS/PDF/Coding Rules/Riassunto Generale.md",
+    "MaterieScientifiche/Informatica/TPS/PDF/Coding Rules/CODING RULES_new.pdf",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/Indirizzi IPv6.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/IPv6.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/VLSM.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Supernetting.md",
@@ -174,10 +184,8 @@
     "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e reti(Internetworking).pdf",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Protocollo IP.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Routing e Forwarding.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/Indirizzi IPv6.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e Reti.md",
-    "MaterieScientifiche/Informatica/TPS/PDF/Coding Rules/CODING RULES_new.pdf",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/Alla Luna.md",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/La sera del dì di festa.md",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/Il sabato del villaggio.md",
@@ -186,21 +194,10 @@
     "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Opere principali/Teatro/Analisi personali/Analisi personale tra Amleto, MacBeth e Il mercante di Venezia.md",
     "Senza nome.md",
     "MaterieScientifiche/Informatica/Java/Libro e Appunti/JavaIO.pdf",
-    "MaterieScientifiche/Informatica/Java/Libro e Appunti/Note/Note1.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/Senza nome.md",
-    "MaterieScientifiche/Informatica/Informatica.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Senza nome.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti",
-    "MaterieScientifiche/Informatica/TPS/TPS (in teoria).md",
     "MaterieScientifiche/Informatica/TPS/PDF/Coding Rules/CODING RULES_new.pptx",
-    "MaterieScientifiche/Informatica/TPS/PDF/Verifica e Validazione del software/V&V.pdf",
-    "MaterieScientifiche/Informatica/TPS/PDF/Il controllo delle Versioni/Il controllo delle Versioni.pdf",
-    "MaterieUmanistiche/Storia/`700/Europa/RivoluzioneFrancese/Rivoluzione Francese.md",
-    "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi/ImmanuelKant/Opere/Critica della ragion pratica.md",
-    "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/William Shakespeare.md",
-    "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Opere principali/Teatro/Romeo e Giulietta.md",
     "MaterieUmanistiche/Storia/`700/Europa/Senza nome.canvas"
   ]
 }

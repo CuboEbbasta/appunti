@@ -61,9 +61,12 @@ In informatica, **TPS** si riferisce a **Tecnologie, Progettazione e Sistemi**, 
 
 **V&V**:
 [[V&V.pdf]]
+[[MaterieScientifiche/Informatica/TPS/PDF/Verifica e Validazione del software/Riassunto Generale|Riassunto Generale]]
 
 **IL CONTROLLO DELLE VERSIONI**:
 [[Il controllo delle Versioni.pdf]]
+[[MaterieScientifiche/Informatica/TPS/PDF/Il controllo delle Versioni/Riassunto Generale|Riassunto Generale]]
 
 **CODING RULES**:
 [[CODING RULES_new.pdf]]
+[[MaterieScientifiche/Informatica/TPS/PDF/Coding Rules/Riassunto Generale|Riassunto Generale]]
