@@ -11,10 +11,14 @@
             "id": "5d8612b17ba77339",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "MaterieScientifiche/Informatica/TPS/PDF/Coding Rules/Riassunto Generale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Riassunto Generale"
             }
           }
         ]
