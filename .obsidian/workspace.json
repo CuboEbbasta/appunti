@@ -4,101 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9bc3ae87cbf40a70",
+        "id": "1a165ca09aae238c",
         "type": "tabs",
         "children": [
           {
-            "id": "5d8612b17ba77339",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MaterieScientifiche/Informatica/TPS/PDF/Coding Rules/CODING RULES_new.pdf",
-                "page": 9,
-                "left": -423,
-                "top": 254,
-                "zoom": 1.2
-              },
-              "icon": "lucide-file-text",
-              "title": "CODING RULES_new"
-            }
-          },
-          {
-            "id": "37341a7e0ed1df88",
+            "id": "7ea921643bc3cd7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MaterieScientifiche/Informatica/TPS/PDF/Coding Rules/Riassunto Generale.md",
-                "mode": "source",
+                "file": "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/Indirizzi IPv6.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Riassunto Generale"
-            }
-          },
-          {
-            "id": "8222e1fe1ef52c31",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MaterieScientifiche/Informatica/TPS/PDF/Verifica e Validazione del software/V&V.pdf",
-                "page": 1,
-                "left": -328,
-                "top": 846,
-                "zoom": 1.5
-              },
-              "icon": "lucide-file-text",
-              "title": "V&V"
-            }
-          },
-          {
-            "id": "e7adf2b55de07be0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MaterieScientifiche/Informatica/TPS/PDF/Verifica e Validazione del software/Riassunto Generale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Riassunto Generale"
-            }
-          },
-          {
-            "id": "ef1fc069aba3251d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MaterieScientifiche/Informatica/TPS/PDF/Il controllo delle Versioni/Il controllo delle Versioni.pdf",
-                "page": 8,
-                "left": -224,
-                "top": 658,
-                "zoom": 1.8
-              },
-              "icon": "lucide-file-text",
-              "title": "Il controllo delle Versioni"
-            }
-          },
-          {
-            "id": "42c166c16fe26e8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MaterieScientifiche/Informatica/TPS/PDF/Il controllo delle Versioni/Riassunto Generale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Riassunto Generale"
+              "title": "Indirizzi IPv6"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5026054382324,
-    "collapsed": true
+    "width": 302.5026054382324
   },
   "right": {
     "id": "d99b5d59f1db53fc",
@@ -242,14 +164,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "37341a7e0ed1df88",
+  "active": "7ea921643bc3cd7f",
   "lastOpenFiles": [
-    "MaterieScientifiche/Informatica/TPS/PDF/Coding Rules/CODING RULES_new.pdf",
-    "MaterieScientifiche/Informatica/TPS/PDF/Coding Rules/Riassunto Generale.md",
-    "MaterieScientifiche/Informatica/TPS/PDF/Verifica e Validazione del software/Riassunto Generale.md",
-    "MaterieScientifiche/Informatica/TPS/PDF/Verifica e Validazione del software/V&V.pdf",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e reti(Internetworking).pdf",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/Indirizzi IPv6.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Struttura degli indirizzi IP.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Protocollo IP.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/IPv6.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/VLSM.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Supernetting.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Subnetting.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Routing e Forwarding.md",
     "MaterieScientifiche/Informatica/TPS/PDF/Il controllo delle Versioni/Riassunto Generale.md",
     "MaterieScientifiche/Informatica/TPS/PDF/Il controllo delle Versioni/Il controllo delle Versioni.pdf",
+    "MaterieScientifiche/Informatica/TPS/PDF/Verifica e Validazione del software/Riassunto Generale.md",
+    "MaterieScientifiche/Informatica/TPS/PDF/Verifica e Validazione del software/V&V.pdf",
+    "MaterieScientifiche/Informatica/TPS/PDF/Coding Rules/Riassunto Generale.md",
+    "MaterieScientifiche/Informatica/TPS/PDF/Coding Rules/CODING RULES_new.pdf",
     "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Vita.md",
     "MaterieUmanistiche/Italiano/Italiano.md",
     "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/William Shakespeare.md",
@@ -257,15 +188,6 @@
     "MaterieUmanistiche/Inglese/Inglese.md",
     "MaterieUmanistiche/Materie Umanistiche.md",
     "MaterieScientifiche/Informatica/TPS/TPS (in teoria).md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/Indirizzi IPv6.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/IPv6.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/VLSM.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Supernetting.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Subnetting.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Struttura degli indirizzi IP.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e reti(Internetworking).pdf",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Protocollo IP.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Routing e Forwarding.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e Reti.md",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/Alla Luna.md",

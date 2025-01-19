@@ -4,7 +4,7 @@
 
 **Forwarding:**
 
-* Si occupa di inoltrare i pacchetti di dati da un dispositivo all'altro lungo il percorso stabilito dal routing.
+* ==Si occupa di inoltrare i pacchetti di dati da un dispositivo all'altro lungo il percorso stabilito dal routing==.
 * È come consegnare una lettera: una volta che la strada è stata determinata, il forwarding si occupa di assicurarsi che la lettera arrivi al destinatario corretto.
 * I dispositivi che eseguono il forwarding sono generalmente **switch** e **router**.
 
@@ -18,7 +18,7 @@
 
 **Routing:**
 
-* Si occupa di determinare il percorso ottimale per i pacchetti di dati attraverso una rete complessa. 
+* ==Si occupa di determinare il percorso ottimale per i pacchetti di dati attraverso una rete complessa==. 
 * È come la navigazione su una mappa: il router analizza le informazioni sulla destinazione e sceglie la strada più efficiente, tenendo conto del traffico, della distanza e delle risorse disponibili.
 * I router utilizzano **tabelle di routing** per memorizzare le informazioni sui percorsi verso diverse destinazioni. Queste tabelle vengono aggiornate in tempo reale in base al flusso di dati e alle condizioni di rete.
 
@@ -51,7 +51,7 @@ In sintesi, il **routing** pianifica il percorso migliore per i dati, mentre il 
 * Il Data Plane è come la rete stradale, mentre il Control Plane è come il traffico cittadino.
 
 ---
-Il **==Network Layer==** può ==offrire== sia ==servizi== connessi (==connection-oriented==) sia servizi non connessi (==connectionless==). **I primi sono solitamente implementati tramite circuiti virtuali** e si ritrovano nelle reti di estrazione telefonica, quali X.25, Frame Relay e ATM . **I secondi sono offerti dalle reti TCP/IP, come Internet, che sono attualmente le reti più diffuse**. **II Network Layer è il primo strato dello stack TCP/IP in grado di garantire una con nettività a livello WAN**; **deve** quindi **poter identificare univocamente ogni host della rete mediante un identificativo apposito**. ***Un protocollo di livello Network deve conoscere la topologia della rete, scegliere di volta in volta il cammino migliore, gestendo le problematiche derivanti dalla presenza di più reti realizzate con tecnologie diverse a livello Physical***.
+Il **==Network Layer==** può ==offrire== sia ==servizi== connessi (==connection-oriented==) sia servizi non connessi (==connectionless==). **I primi sono solitamente implementati tramite circuiti virtuali** e si ritrovano nelle reti di estrazione telefonica, quali X.25, Frame Relay e ATM . **I secondi sono offerti dalle reti TCP/IP, come Internet, che sono attualmente le reti più diffuse**. **II Network Layer è il primo strato dello stack TCP/IP in grado di garantire una connettività a livello WAN**; **deve** quindi **poter identificare univocamente ogni host della rete mediante un identificativo apposito**. ***Un protocollo di livello Network deve conoscere la topologia della rete, scegliere di volta in volta il cammino migliore, gestendo le problematiche derivanti dalla presenza di più reti realizzate con tecnologie diverse a livello Physical***.
 
 ---
 > [!PDF|] [[Sistemi e reti(Internetworking).pdf#page=118&selection=6,0,18,34|Il principale protocollo del livello Network nelle reti TCP/IP è Internet Protocol (IP), usato per trasferire i dati nella rete WAN. Sempre in questo livello sono stati specificati anche alcuni #protocolli di controllo come ARP, RARP, ICMP, i pro tocolli di routing e altri ancora.]]

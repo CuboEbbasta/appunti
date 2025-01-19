@@ -22,4 +22,99 @@ La maschera verrà settata al valore:
 > > Con la CIDR non è corretto parlare di subnet mask, in quanto non esistono sot toreti e non viene fatto il subnetting. È invece corretto far riferimento a una ma schera per l’intera rete costituita dal blocco di indirizzi IP di rete consecutivi. Tale maschera prende il nome di netmask.
 
 ---
+Il **supernetting**, noto anche come **route aggregation**, è una tecnica utilizzata per combinare più reti IP contigue in una rete più grande (detta supernet). Questo viene fatto per ridurre il numero di rotte presenti nelle tabelle di routing, semplificando così la gestione della rete.
+
+È importante sottolineare che il supernetting funziona solo se le reti da combinare sono **contigue** e se i loro prefissi condividono un certo numero di bit iniziali in comune.
+
+---
+
+### **Quando si usa il supernetting?**
+
+1. **Riduzione della complessità del routing**: meno rotte nelle tabelle di routing, ad esempio nei router o nelle tabelle BGP.
+2. **Efficienza nella gestione delle risorse IP**: si aggregano più reti per creare una rappresentazione unificata.
+
+---
+
+### **Esempio dettagliato**
+
+Supponiamo di avere le seguenti reti:
+
+- **192.168.1.0/24**
+- **192.168.2.0/24**
+
+Queste due reti sono contigue, quindi possiamo combinarle in un'unica supernet.
+
+#### **Passaggi del supernetting:**
+
+1. **Rappresentare gli indirizzi in binario** Rappresentiamo gli indirizzi di rete delle due subnet in binario per capire quanti bit iniziali sono comuni:
+    
+    - **192.168.1.0**: `11000000.10101000.00000001.00000000`
+    - **192.168.2.0**: `11000000.10101000.00000010.00000000`
+2. **Identificare i bit comuni** Confrontiamo i due indirizzi:
+    
+    ```
+    192.168.1.0: 11000000.10101000.00000001.00000000
+    192.168.2.0: 11000000.10101000.00000010.00000000
+    ```
+    
+    I primi **23 bit** sono identici: `11000000.10101000.0000000`.
+    
+3. **Calcolare il nuovo prefisso**
+    
+    - Il nuovo prefisso sarà **/23** (23 bit in comune).
+    - La nuova rete sarà **192.168.0.0/23**.
+4. **Determinare l’intervallo IP coperto dalla supernet**
+    
+    - **Indirizzo di rete**: 192.168.0.0 (11000000.10101000.00000000.00000000)
+    - **Broadcast**: 192.168.1.255 (11000000.10101000.00000001.11111111)
+    
+    La supernet **192.168.0.0/23** include **192.168.0.0 - 192.168.1.255**.
+    
+
+---
+
+### **Altro esempio: Aggregazione di 4 reti**
+
+Supponiamo di avere 4 reti:
+
+- **192.168.0.0/24**
+- **192.168.1.0/24**
+- **192.168.2.0/24**
+- **192.168.3.0/24**
+
+1. **Rappresentazione binaria**:
+    
+    - 192.168.0.0: `11000000.10101000.00000000.00000000`
+    - 192.168.1.0: `11000000.10101000.00000001.00000000`
+    - 192.168.2.0: `11000000.10101000.00000010.00000000`
+    - 192.168.3.0: `11000000.10101000.00000011.00000000`
+2. **Identificare i bit comuni**: I primi **22 bit** sono comuni:
+    
+    ```
+    11000000.10101000.000000
+    ```
+    
+3. **Nuova rete**: La nuova supernet sarà **192.168.0.0/22**.
+    
+4. **Intervallo IP coperto**:
+    
+    - **Indirizzo di rete**: 192.168.0.0 (11000000.10101000.00000000.00000000)
+    - **Broadcast**: 192.168.3.255 (11000000.10101000.00000011.11111111)
+    
+    La rete **192.168.0.0/22** copre **192.168.0.0 - 192.168.3.255**.
+    
+
+---
+
+### **Condizioni per il supernetting**
+
+1. **Contiguità delle reti**: Gli indirizzi di rete devono essere consecutivi.
+2. **Potenza di 2**: Il numero di reti da combinare deve essere una potenza di 2 (es. 2, 4, 8, ecc.).
+3. **Prefissi uguali per i bit iniziali**: Le reti devono condividere un prefisso comune.
+
+---
+
+Se vuoi un ulteriore esempio o un'applicazione pratica, fammi sapere! 😊
+
+---
 [[VLSM]]

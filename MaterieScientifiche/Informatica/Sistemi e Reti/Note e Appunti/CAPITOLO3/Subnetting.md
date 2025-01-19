@@ -77,5 +77,30 @@ Sottoreti: 5 quindi 2^3
 | 3(QUARTA)  | 172.104.==100==00000.00000000 | 172.104.==100==11111.11111111 | 172.104.128.1 - 170.104.159.254 |
 
 ---
+### **Subnetting**
+
+Il **subnetting** consiste nel suddividere una rete grande in più sottoreti più piccole. È utile per migliorare l'efficienza dell'indirizzamento IP e per separare logicamente i segmenti di rete.
+
+#### Esempio
+
+Supponiamo di avere una rete IP **192.168.1.0/24** e di volerla suddividere in **4 sottoreti**.
+
+- **Passaggi:**
+    
+    1. L'attuale subnet mask è /24 (255.255.255.0), che lascia 8 bit per gli host.
+    2. Per creare 4 sottoreti, servono almeno 2 bit per identificare le sottoreti (22=42^2 = 422=4).
+    3. La nuova subnet mask sarà **/26** (255.255.255.192), lasciando 6 bit per gli host (26−2=622^6 - 2 = 6226−2=62 host per sottorete).
+- **Suddivisione in binario**:
+	Rete originale: 192.168.1.0/24 (11000000.10101000.00000001.00000000)
+	
+Dividendo i 2 bit più significativi del quarto ottetto:
+
+- Sottorete 1: 192.168.1.0/26 (11000000.10101000.00000001.00**000000**)
+- Sottorete 2: 192.168.1.64/26 (11000000.10101000.00000001.01**000000**)
+- Sottorete 3: 192.168.1.128/26 (11000000.10101000.00000001.10**000000**)
+- Sottorete 4: 192.168.1.192/26 (11000000.10101000.00000001.11**000000**)
+
+
+---
 
 [[Supernetting]]
