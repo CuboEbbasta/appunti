@@ -113,8 +113,4 @@ Supponiamo di avere 4 reti:
 3. **Prefissi uguali per i bit iniziali**: Le reti devono condividere un prefisso comune.
 
 ---
-
-Se vuoi un ulteriore esempio o un'applicazione pratica, fammi sapere! 😊
-
----
 [[VLSM]]

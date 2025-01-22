@@ -20,7 +20,9 @@ Convinto che almeno l’onore, bene irrinunciabile, sia conservabile con le armi
 
 ---
 [[MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Eredità culturale|Eredità culturale]]
+
 [[MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Opere principali]]
+
 [[MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Pensiero e Temi principali/Pensiero e Temi principali]]
 
 

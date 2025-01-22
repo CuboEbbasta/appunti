@@ -50,8 +50,8 @@ Nella [[Sistemi e reti(Internetworking).pdf#page=119&selection=136,0,144,1|figur
 	-==**`OPTION NUMBER`**==: **5 bit che identificano l’opzione nell’ambito della Option Class di appartenenza**. Per esempio:
 	 - *Option Class = 0* e *Option Number = 0*: **fine delle opzioni**;
 	 - *Option Class = 0 e Option Number = 1*: **riempitivo in caso di nessuna opzione impostata**;
-	 - *Option Class = 0 e Option Number = 7*: **costringe i router ad aggiungere il proprio IP all’elenco delle opzioni**; *è usato quando si vuole tenere traccia dei percorsi (record route)*;
-	 - *Option Class = 2 e Option Number = 4*: **costringe i router ad aggiungere un segnatempo (time stamp) in millisecondi per ricostruire il tempo impiegato da un pacchetto lungo una strada**.
+	 - *Option Class = 0 e Option Number = 7*: ==**costringe i router ad aggiungere il proprio IP all’elenco delle opzioni**==; *è usato quando si vuole tenere traccia dei percorsi (record route)*;
+	 - *Option Class = 2 e Option Number = 4*: **==costringe i router ad aggiungere un segnatempo (time stamp)== in millisecondi per ricostruire il tempo impiegato da un pacchetto lungo una strada**.
 	
 	*Le opzioni sono registrate sul sito IANA, dove si trova l’elenco completo e aggiornato: “IP Option Numbers” www.iana.org/assignments/ip-parameters*
 

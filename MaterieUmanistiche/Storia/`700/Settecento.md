@@ -143,4 +143,7 @@ Il Settecento fu un secolo di trasformazioni epocali, in cui la ragione e il pro
 
 ---
 [[Rivoluzione Francese]]
+
+[[Rivoluzione Americana]]
+
 [[Rivoluzione Industriale]]
