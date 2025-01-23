@@ -4,6 +4,6 @@ L'obiettivo è quello di creare un punto di studio e conoscenza semplice e utile
 
 Il consiglio che do è quello di scaricare Obsidian(software che uso per ordinare e costruire gli appunti).
 
-Plugin che uso: File color, Hover editor, Local GPT(con phi4 e gemma2), PDF++.
+Plugin che uso: File color, Hover editor, Local GPT(con DeepSeek e gemma2), PDF++.
 
 PS. I seguenti libri o altre risorse con licenza, sono documenti che ho comprato e non piratato. Ricordo a tutti che è illegale usufruire di documenti con licenza non comprati.
