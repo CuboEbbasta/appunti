@@ -1,190 +1,53 @@
-### **Impedenza (Ω)**
+## Impedenza (Ω)
 
-#### Definizione:
+==L'impedenza (Z)== è un concetto fondamentale in elettrotecnica che ==rappresenta **la resistenza complessiva** che un circuito oppone **al passaggio della corrente alternata==** (AC).  È una grandezza complessa, ovvero ==composta da due parti: reale e immaginaria==. 
 
-L'**impedenza** (ℓ) rappresenta la resistenza complessiva che un circuito oppone al passaggio della corrente alternata (AC). Combina la resistenza (ℓ) e la reattanza (ℓ).
+**1. ==Resistenza (R)==:** ==La parte reale dell'impedenza rappresenta la resistenza== offerta al passaggio della corrente da parte dei componenti resistivi del circuito, come resistori. Ad esempio, un resistore da 10 Ω offre una resistenza di 10 Ω alla corrente.
 
-#### Formula:
+**2. ==Reattanza (X)==:** La parte immaginaria dell'impedenza rappresenta la resistenza opposta da elementi reattivi come condensatori e induttori.
 
-Z=R+jXZ = R + jX
+* ==**Condensatore==:**  La reattanza capacitiva (XC) ==è inversamente proporzionale alla frequenza della corrente alternata e alla capacità del condensatore==. Maggiore è la frequenza, minore è la reattanza capacitiva. Ad esempio, un condensatore da 1 µF avrà una reattanza capacitiva di circa 160 Ω a una frequenza di 1 kHz.
+* ==**Induttore:** La reattanza induttiva (XL) è direttamente proporzionale alla frequenza della corrente alternata e all'induttanza dell'induttore==. Maggiore è la frequenza, maggiore è la reattanza induttiva. Ad esempio, un induttore da 10 mH avrà una reattanza induttiva di circa 63 Ω a una frequenza di 1 kHz.
 
-Dove:
+### Formula generale dell'impedenza:
 
-- RR: resistenza (parte reale, in ohm ΩΩ).
-- XX: reattanza totale (parte immaginaria, in ohm ΩΩ).
-- jj: unità immaginaria (¡).
-
-#### Modulo dell'impedenza:
-
-∣Z∣=R2+X2|Z| = \sqrt{R^2 + X^2}
-
-#### Angolo di fase:
-
-ϕ=arctan⁡(XR)\phi = \arctan\left(\frac{X}{R}\right)
-
-- ϕ>0\phi > 0: circuito induttivo.
-- ϕ<0\phi < 0: circuito capacitivo.
-- ϕ=0\phi = 0: circuito puramente resistivo.
-
-#### Caratteristiche:
-
-- Misurata in ohm (ΩΩ).
-- Determina il rapporto tra tensione e corrente in un circuito AC.
-- Combina resistenza e reattanza.
-
----
-
-### **Reattanza (Ω)**
-
-La reattanza (ℓ) è la parte immaginaria dell'impedenza ed è dovuta ai componenti reattivi del circuito: condensatori e induttori.
-
-#### **Reattanza induttiva (ℓ):**
-
-Rappresenta l'opposizione alla corrente alternata dovuta all'induttanza.
-
-XL=2πfLX_L = 2\pi f L
+Z = R + jX
 
 Dove:
 
-- XLX_L: reattanza induttiva (in ΩΩ).
-- ff: frequenza della corrente alternata (in Hz).
-- LL: induttanza (in Henry, H).
+* Z è l'impedenza (in Ohm).
+* R è la resistenza (in Ohm).
+* X è la reattanza totale (in Ohm), calcolata come X = XL - XC.
+* j è l'unità immaginaria (j² = -1).
 
-**Caratteristiche:**
+### Modulo dell'impedenza:
 
-- Aumenta con la frequenza.
-- La corrente ritarda rispetto alla tensione.
+Il modulo di Z, rappresentato da |Z|, rappresenta la magnitudine dell'impedenza e si calcola come:
 
-#### **Reattanza capacitiva (ℓ):**
+|Z| = √(R² + X²)
 
-Rappresenta l'opposizione alla corrente alternata dovuta alla capacità.
+### Frequenze
 
-XC=12πfCX_C = \frac{1}{2\pi f C}
+* ==**Frequenza di risonanza (fr):** È la frequenza a cui la reattanza induttiva e capacitiva si annullano== a vicenda. In questo caso, l'impedenza è minima. La formula per calcolare la frequenza di risonanza è: fr = 1 / (2π√(LC)), dove L è l'induttanza e C è la capacità del circuito.
 
-Dove:
+* ==**Frequenza di taglio (fc):** È la frequenza a cui il segnale viene attenuato di -3 dB(0,707) rispetto al valore in ingresso.== Viene utilizzata nei filtri per selezionare una specifica banda di frequenze. La formula per calcolare la frequenza di taglio di un filtro RC è: fc = 1 / (2πRC), dove R è la resistenza e C è la capacità del circuito.
 
-- XCX_C: reattanza capacitiva (in ΩΩ).
-- ff: frequenza della corrente alternata (in Hz).
-- CC: capacità (in Farad, F).
+### Potenza
 
-**Caratteristiche:**
+* **Potenza istantanea (p(t)):** ==Rappresenta la potenza trasferita o assorbita da un circuito in un dato istante di tempo==. Si calcola come p(t) = v(t) * i(t), dove v(t) è la tensione e i(t) è la corrente nel circuito.
 
-- Diminuisce con l'aumentare della frequenza.
-- La corrente anticipa rispetto alla tensione.
+* **Potenza attiva (P):** ==È la parte della potenza totale che viene effettivamente trasformata in lavoro utile==. Si calcola come P = Vrms * Irms * cos(φ), dove Vrms e Irms sono rispettivamente la tensione efficace e la corrente efficace, e φ è l'angolo di fase tra tensione e corrente.
 
+### Corrente elettrica (I)
+
+* **Definizione:** ==La corrente elettrica è il flusso di cariche elettriche attraverso un conduttore==. Si misura in Ampere (A).
+* **Formula:** I = Q / t, dove Q è la carica (in Coulomb) e t è il tempo (in secondi).
+
+
+### Generatore
+
+* **Definizione:** ==Un generatore è un dispositivo che fornisce energia elettrica mantenendo una differenza di potenziale==. 
+* **Tipi:**
+    * **Generatore di tensione:** *Mantiene una tensione costante*. Esempi: batterie.
+    * **Generatore di corrente:** *Mantiene una corrente costante*. Esempi: alternatori.
 ---
-
-### **Frequenze**
-
-#### **Frequenza di risonanza**
-
-La frequenza di risonanza (ℓ) è la frequenza a cui la reattanza induttiva e capacitiva si annullano a vicenda.
-
-XL=XCX_L = X_C
-
-Formula:
-
-f0=12πLC f_0 = \frac{1}{2\pi\sqrt{L C}}
-
-Dove:
-
-- LL: induttanza (H).
-- CC: capacità (F).
-
-**Caratteristiche:**
-
-- La corrente e la tensione sono in fase (¡).
-- L'impedenza è minima in un circuito RLC in serie e massima in uno parallelo.
-- Oscillazioni massime tra condensatore e induttore.
-
-#### **Frequenza di taglio**
-
-La frequenza di taglio (ℓ) rappresenta il punto in cui la potenza del segnale si riduce al 50% del valore massimo.
-
-Formula per un filtro RC:
-
-fc=12πRC f_c = \frac{1}{2\pi R C}
-
-**Caratteristiche:**
-
-- Segnale attenuato di −3 dB-3 \ \mathrm{dB} alla frequenza di taglio.
-- Utilizzata nei filtri passa-basso, passa-alto, passa-banda ed elimina-banda.
-
----
-
-### **Potenza**
-
-#### **Potenza istantanea (ℓ):**
-
-Rappresenta la potenza trasferita o assorbita da un circuito in un dato istante di tempo.
-
-Formula:
-
-p(t)=v(t)⋅i(t) p(t) = v(t) \cdot i(t)
-
-**Caratteristiche:**
-
-- Può essere positiva (energia assorbita) o negativa (energia restituita).
-- Varia nel tempo in un circuito AC.
-
-#### **Potenza attiva (ℓ):**
-
-La parte della potenza totale che viene effettivamente trasformata in lavoro utile.
-
-Formula:
-
-P=Vrms⋅Irms⋅cos⁡(ϕ) P = V_{rms} \cdot I_{rms} \cdot \cos(\phi)
-
-Dove:
-
-- cos⁡(ϕ)\cos(\phi): fattore di potenza.
-
-**Caratteristiche:**
-
-- Misurata in Watt (ℓℓ).
-- Associata alla componente resistiva del circuito.
-
----
-
-### **Corrente elettrica (ℓ):**
-
-#### Definizione:
-
-La corrente elettrica è il flusso di cariche elettriche attraverso un conduttore.
-
-Formula:
-
-I=Qt I = \frac{Q}{t}
-
-Dove:
-
-- QQ: carica (in Coulomb).
-- tt: tempo (in secondi).
-
-**Caratteristiche:**
-
-- Misurata in Ampere (ℓℓ).
-- Può essere continua (DC) o alternata (AC).
-
----
-
-### **Generatore**
-
-#### Definizione:
-
-Un generatore è un dispositivo che fornisce energia elettrica mantenendo una differenza di potenziale (ℓ).
-
-**Tipi di generatori:**
-
-1. **Generatore di tensione:** mantiene una tensione costante.
-2. **Generatore di corrente:** mantiene una corrente costante.
-
-**Esempi:**
-
-- Batterie: generatori di tensione continua.
-- Alternatori: generatori di corrente alternata.
-- Celle fotovoltaiche: generatori di tensione continua.
-
----
-
-Se hai bisogno di approfondire ulteriormente o aggiungere dettagli, fammi sapere!

@@ -11,10 +11,14 @@
             "id": "7ea921643bc3cd7f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "MaterieScientifiche/Elettronica/Concetti di Elettrotecnica Definizioni e Caratteristiche.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Concetti di Elettrotecnica Definizioni e Caratteristiche"
             }
           }
         ]
