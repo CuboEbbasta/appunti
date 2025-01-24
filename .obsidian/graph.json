@@ -50,6 +50,13 @@
       }
     },
     {
+      "query": "path:MaterieScientifiche/Elettronica  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
       "query": "path:MaterieScientifiche/Informatica  ",
       "color": {
         "a": 1,
@@ -67,6 +74,6 @@
   "repelStrength": 10.033843238121,
   "linkStrength": 1,
   "linkDistance": 260,
-  "scale": 0.3990482973720822,
+  "scale": 0.39904829737208236,
   "close": true
 }
