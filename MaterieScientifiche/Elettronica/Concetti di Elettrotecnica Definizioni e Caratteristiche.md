@@ -1,3 +1,23 @@
+### **Induttore**
+
+==Un induttore è un componente elettrico costituito generalmente da una bobina di filo conduttore==. Quando ==una corrente varia nel tempo attraversa l'induttore==, esso ==genera un campo magnetico== che, ==per la **Legge di Faraday**==, induce una ==forza elettromotrice (f.e.m.) che si oppone al cambiamento di corrente==.
+
+==L'induttanza== L ==quantifica questa capacità di opporsi ai cambiamenti della corrente==.
+
+L'induttanza misura la sua capacità di opporsi ai cambiamenti della corrente che lo attraversa.
+
+---
+### **Condensatore**
+
+==Un **condensatore** è un componente elettrico utilizzato per immagazzinare energia sotto forma di **campo elettrico**==. È ==costituito da due piastre conduttrici separate da un materiale isolante chiamato **dielettrico**==.
+
+---
+
+### **Definizione di capacità**
+
+==La **capacità** di un condensatore== (C) ==**misura la quantità di carica elettrica che il condensatore può immagazzinare per unità di differenza di potenziale applicata**==.
+
+---
 ## Impedenza (Ω)
 
 ==L'impedenza (Z)== è un concetto fondamentale in elettrotecnica che ==rappresenta **la resistenza complessiva** che un circuito oppone **al passaggio della corrente alternata==** (AC).  È una grandezza complessa, ovvero ==composta da due parti: reale e immaginaria==. 
