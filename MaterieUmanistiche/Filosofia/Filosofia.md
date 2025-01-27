@@ -79,5 +79,8 @@ Anche se molte delle sue domande sono state inglobate dalle scienze (ad esempio,
 In sintesi, la filosofia è uno strumento fondamentale per chi vuole approfondire le radici della conoscenza e del pensiero umano.
 
 ---
-
+`800`:
 [[Illuminismo]]
+
+`900`:
+[[Arendt]]

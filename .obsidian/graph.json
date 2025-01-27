@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 135109
       }
+    },
+    {
+      "query": "path:MaterieUmanistiche/Tedesco  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +81,6 @@
   "repelStrength": 10.033843238121,
   "linkStrength": 1,
   "linkDistance": 260,
-  "scale": 0.32133638605035886,
-  "close": true
+  "scale": 0.3213363860503592,
+  "close": false
 }

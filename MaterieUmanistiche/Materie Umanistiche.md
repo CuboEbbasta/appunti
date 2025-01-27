@@ -92,4 +92,5 @@ Le materie umanistiche sono fondamentali per capire chi siamo come individui e c
 [[Filosofia]]
 [[Italiano]]
 [[Inglese]]
+[[Tedesco]]
 [[Storia]]

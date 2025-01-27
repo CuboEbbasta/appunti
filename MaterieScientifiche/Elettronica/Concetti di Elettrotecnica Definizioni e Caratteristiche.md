@@ -4,7 +4,7 @@
 
 ==L'induttanza== L ==quantifica questa capacità di opporsi ai cambiamenti della corrente==.
 
-L'induttanza misura la sua capacità di opporsi ai cambiamenti della corrente che lo attraversa.
+**L'induttanza misura la sua capacità di opporsi ai cambiamenti della corrente che lo attraversa**.
 
 ---
 ### **Condensatore**

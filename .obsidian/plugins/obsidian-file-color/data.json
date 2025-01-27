@@ -975,6 +975,34 @@
     {
       "path": "MaterieScientifiche/Elettronica",
       "color": "8qI7ek44KYNSXPadheaWi"
+    },
+    {
+      "path": "MaterieUmanistiche/Tedesco",
+      "color": "8qI7ek44KYNSXPadheaWi"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/'800",
+      "color": "XS0ayWjkKhD9X-hN3Fpq0"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`900/HannahArendt",
+      "color": "UkGy2-67m8zmYQ9ik-Ngn"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`900/HannahArendt/Opere",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`900/HannahArendt/Arendt.md",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`900/HannahArendt/Vita.md",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieUmanistiche/Filosofia/`900/HannahArendt/Pensiero.md",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
     }
   ]
 }
