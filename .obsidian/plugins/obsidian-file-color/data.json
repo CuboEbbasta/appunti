@@ -921,8 +921,8 @@
       "color": "McpGIKQz02p12IGTA2Zdj"
     },
     {
-      "path": "MaterieScientifiche/Informatica/Java/Libro e Appunti/Lista in Java.md",
-      "color": "Jc-s0aBYQuMuoGhjQAChz"
+      "path": "MaterieScientifiche/Informatica/Java/Libro e Appunti/Le Liste/Metodi per List in java.md",
+      "color": "McpGIKQz02p12IGTA2Zdj"
     },
     {
       "path": "MaterieUmanistiche/Storia/`700/America",
@@ -1003,6 +1003,14 @@
     {
       "path": "MaterieUmanistiche/Filosofia/`900/HannahArendt/Pensiero.md",
       "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieScientifiche/Informatica/Java/Libro e Appunti/Le Liste",
+      "color": "Jc-s0aBYQuMuoGhjQAChz"
+    },
+    {
+      "path": "MaterieScientifiche/Informatica/Java/Libro e Appunti/Le Liste/Le liste.md",
+      "color": "McpGIKQz02p12IGTA2Zdj"
     }
   ]
 }

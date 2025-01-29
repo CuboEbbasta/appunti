@@ -11,10 +11,14 @@
             "id": "7ea921643bc3cd7f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "MaterieScientifiche/Informatica/Java/Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java"
             }
           }
         ]
@@ -162,11 +166,15 @@
   },
   "active": "7ea921643bc3cd7f",
   "lastOpenFiles": [
+    "MaterieScientifiche/Informatica/Java/Libro e Appunti/Note/Note1.md",
+    "MaterieScientifiche/Informatica/Java/Libro e Appunti/Le Liste/Le liste.md",
+    "MaterieScientifiche/Informatica/Java/Libro e Appunti/Le Liste/Metodi per List in java.md",
+    "MaterieScientifiche/Informatica/Java/Libro e Appunti/Le Liste",
+    "MaterieUmanistiche/Filosofia/`900/HannahArendt/Vita.md",
     "Senza nome.canvas",
     "MaterieUmanistiche/Materie Umanistiche.md",
     "MaterieUmanistiche/Filosofia/Filosofia.md",
     "MaterieUmanistiche/Filosofia/`900/HannahArendt/Opere/Responsabilità e Giudizio (Responsibility and Judgment, postumo).md",
-    "MaterieUmanistiche/Filosofia/`900/HannahArendt/Vita.md",
     "MaterieUmanistiche/Filosofia/`900/HannahArendt/Opere/La Condizione Umana (The Human Condition).md",
     "MaterieUmanistiche/Filosofia/`900/HannahArendt/Arendt.md",
     "MaterieUmanistiche/Filosofia/`900/HannahArendt/Opere/La Vita della Mente (The Life of the Mind).md",
@@ -192,12 +200,9 @@
     "MaterieScientifiche/Materie Scientifiche.md",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/Vita.md",
     "MaterieScientifiche/Elettronica",
-    "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi/ImmanuelKant/Opere/Critica del giudizio.md",
-    "MaterieUmanistiche/Filosofia/`700/Illuministi/Tedeschi/ImmanuelKant/Opere/Per la pace perpetua.md",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/Opere principali",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/Pensiero e Temi Principali",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni",
-    "MaterieUmanistiche/Storia/`700/America",
     "MaterieUmanistiche/Storia/`700/Europa/Senza nome.canvas"
   ]
 }
