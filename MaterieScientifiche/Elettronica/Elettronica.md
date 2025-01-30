@@ -34,3 +34,11 @@ In sintesi, l'elettronica è il motore delle tecnologie moderne, consentendo la 
 ---
 
 [[Concetti di Elettrotecnica Definizioni e Caratteristiche]]
+
+
+ARGOMENTO 1:
+[[Dominio del Tempo in Serie.png]]
+[[Dominio del Tempo in Parallelo.png]]
+
+ARGOMENTO 2:
+[[Tutto.png]]

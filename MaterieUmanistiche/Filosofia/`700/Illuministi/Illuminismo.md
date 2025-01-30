@@ -112,7 +112,8 @@ Kant intende per **minorità** uno stato di dipendenza da autorità esterne (rel
 3. Elitismo: l'Illuminismo fu accessibile principalmente alle classi colte.
 
 ---
-
+[[illuminismo.pdf]]
+[[IlluminismoA.pdf]]
 **FILOSOFI:
 ---
 VOLTAIRE: [[Voltaire]]
