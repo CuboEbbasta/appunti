@@ -62,6 +62,7 @@ Java è utilizzato in una vasta gamma di applicazioni:
 - **IDE (Integrated Development Environment)**: Strumenti come **Eclipse**, **IntelliJ IDEA**, o **NetBeans** rendono lo sviluppo Java più semplice e produttivo.
 
 ---
+[[Java generale più specifico]]
 
 **LIBRO**:
 
