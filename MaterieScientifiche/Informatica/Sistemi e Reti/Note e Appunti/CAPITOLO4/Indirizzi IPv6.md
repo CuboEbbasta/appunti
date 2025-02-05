@@ -48,3 +48,6 @@ GUA: 2000::**/3** -> 2(**001**0),0000,0000,0000 ::
 **[[Sistemi e reti(Internetworking).pdf#page=177&selection=135,6,135,39&color=yellow|ASSEGNAZIONE DEGLI INDIRIZZI IPv6]]**:
 
 **Come gli indirizzi IPv4, anche quelli IPv6 sono gestiti da IANA** e, a livello regionale dai RIR (vedi la Lezione 2 dell’Unità 3). L’elenco aggiornato degli indirizzi Global Unicast IPv6 allocati ai RIR si trova al link: www.iana.org/assignments/ipv6-unicastaddress-assignments/ipv6-unicast-address-assignments.xhtml I RIR, come **RIPE NCC per l’Europa**, **allocano gli indirizzi IPv6 agli Internet Registry locali all’area geografica in cui operano**, detti **Local Internet Registry (LIR)**, che **spesso coincidono con gli Internet Service Provider (ISP)**, che **a loro volta assegnano gli indirizzi agli utenti delle reti a cui forniscono il servizio** (provide).
+
+---
+[[ICMP]]

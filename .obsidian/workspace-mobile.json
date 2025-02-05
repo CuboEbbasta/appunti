@@ -67,7 +67,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -126,7 +127,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MaterieScientifiche/Elettronica/Concetti di Elettrotecnica Definizioni e Caratteristiche.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,6 +183,20 @@
   },
   "active": "6f412dd9e810d91a",
   "lastOpenFiles": [
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Eredità culturale.md",
+    "MaterieUmanistiche/Filosofia/`700/Illuministi/illuminismo.pdf",
+    "MaterieUmanistiche/Filosofia/`700/Illuministi/IlluminismoA.pdf",
+    "MaterieUmanistiche/Filosofia/`700/Illuministi/IlluminismoA.odt",
+    "MaterieUmanistiche/Filosofia/`700/Illuministi/IlluminismoA 1.odt",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/Il protocollo ARP.md",
+    "MaterieScientifiche/Informatica/Java/Libro e Appunti/Le Liste/Le liste.md",
+    "MaterieScientifiche/Informatica/Java/Libro e Appunti/Le Liste/Metodi per List in java.md",
+    "MaterieScientifiche/Informatica/Java/Libro e Appunti/Le Liste",
+    "MaterieScientifiche/Elettronica/Argomento 2/Tutto.png",
+    "MaterieScientifiche/Elettronica/Argomento 1/Dominio del Tempo in Serie.png",
+    "MaterieScientifiche/Elettronica/Argomento 1/Dominio del Tempo in Parallelo.png",
+    "MaterieScientifiche/Elettronica/Argomento 2",
+    "MaterieScientifiche/Elettronica/Argomento 1",
     "MaterieScientifiche/Elettronica/Concetti di Elettrotecnica Definizioni e Caratteristiche.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO3/Routing e Forwarding.md",
     "Untitled.md",
@@ -207,17 +221,6 @@
     "MaterieUmanistiche/Filosofia/`700/Illuministi/Italiani/FratelliVerri/AlessandroVerri/Alessandro Verri.md",
     "MaterieUmanistiche/Filosofia/`700/Illuministi/Francesi/Voltaire/Pensiero.md",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Giacomo Leopardi.md",
-    "MaterieUmanistiche/Filosofia/`700/Illuministi/Francesi/Voltaire/Vita.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Saggi e Prose/Discorso sul testo della Divina Commedia.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Saggi e Prose/Saggi e Prose.md",
-    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Industriale.md",
-    "MaterieUmanistiche/Filosofia/'800/Nietzsche",
-    "MaterieUmanistiche/Filosofia/'800",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Vita",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Temi Principali",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali/Pessimismi",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Pensieri e Temi principali",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali"
+    "MaterieUmanistiche/Filosofia/'800/Nietzsche"
   ]
 }

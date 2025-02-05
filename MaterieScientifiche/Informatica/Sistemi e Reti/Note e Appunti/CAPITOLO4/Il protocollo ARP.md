@@ -80,3 +80,21 @@ Quando un host deve inviare dei pacchetti, controlla se nella cache ARP è prese
 
 Nella [[Sistemi e reti(Internetworking).pdf#page=184&selection=15,1,18,1&color=yellow|figura 8]] vediamo nel dettaglio un pacchetto ARP di tipo ARP Request (campo Opcode = 1) in cui l’host 192.168.1.1 chiede all’host 192.168.1.6 di inviargli il suo MAC address (campo Target MAC address = 00:00:00:00:00:00).
 
+---
+[[Sistemi e reti(Internetworking).pdf#page=184&selection=324,1,325,23&color=yellow|Le vulnerabilità di ARP]]
+
+Il protocollo ARP è uno dei più vecchi protocolli sviluppati per la suite TCP/IP, quan do ancora non si prevedeva la diffusione capillare di Internet e non sembrava neces sario mettere in campo azioni preventive per la protezione delle reti.
+
+> [!PDF|yellow] [[Sistemi e reti(Internetworking).pdf#page=185&selection=22,0,30,87&color=yellow|Lo #spoofing risulta relativamente semplice per un pirata informatico: è sufficiente che invii a un host di una rete X un pacchetto ARP contenente una ARP Reply in cui affermi che il proprio indirizzo MAC è associato a un indirizzo IP della rete X stessa.]]
+> > Lo spoofing risulta relativamente semplice per un pirata informatico: è sufficiente che invii a un host di una rete X un pacchetto ARP contenente una ARP Reply in cui affermi che il proprio indirizzo MAC è associato a un indirizzo IP della rete X stessa.
+> 
+
+**Spoofing**: È la falsificazione dell'identità. Questa tecnica può essere utilizzata per falsificare diverse informazioni, come per esempio l'identità di un host all'interno di una rete o il mittente di un messaggio.
+
+---
+Poiché non vi è alcun modo di verificare la veridicità di un’identità, chiunque può in trodursi in una rete facendo credere di esserne un legittimo utente, ottenendo così accesso alle risorse della rete, per esempio al data base aziendale. La scopo di questi attacchi è di ingannare lo switch, inquinandone la cache ARP (ARP cache poisoning), al punto da indurlo a inoltrare pacchetti verso destinazioni altri menti non raggiungibili.
+
+La [[Sistemi e reti(Internetworking).pdf#page=185&selection=65,0,65,9&color=yellow|figura10]] mostra la sequenza di attacco di tipo spoofing al protocollo ARP.
+
+---
+[[Comandi Ping]]
