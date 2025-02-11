@@ -3,7 +3,7 @@
   "search": "",
   "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -57,6 +57,13 @@
       }
     },
     {
+      "query": "path:MaterieScientifiche/Fisica  ",
+      "color": {
+        "a": 1,
+        "rgb": 14734418
+      }
+    },
+    {
       "query": "path:MaterieScientifiche/Informatica  ",
       "color": {
         "a": 1,
@@ -81,6 +88,6 @@
   "repelStrength": 13.0208333333333,
   "linkStrength": 1,
   "linkDistance": 260,
-  "scale": 0.32133638605036313,
+  "scale": 1.2414543899483335,
   "close": true
 }

@@ -70,3 +70,10 @@ In informatica, **TPS** si riferisce a **Tecnologie, Progettazione e Sistemi**, 
 **CODING RULES**:
 [[CODING RULES_new.pdf]]
 [[MaterieScientifiche/Informatica/TPS/PDF/Coding Rules/Riassunto Generale|Riassunto Generale]]
+
+**JUNIT**:
+[[junit.pdf]]
+[[Junit in teoria]]
+
+**GIT**:
+[[Riassunto metodi visti per lavorare su git.pdf]]

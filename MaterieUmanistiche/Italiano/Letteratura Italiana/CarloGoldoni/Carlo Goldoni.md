@@ -2,3 +2,6 @@
 
 ---
 [[MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/Vita|Vita]]
+
+[[BioGoldoniBIS.pdf]]
+[[RiformaTeatro.pdf]]
