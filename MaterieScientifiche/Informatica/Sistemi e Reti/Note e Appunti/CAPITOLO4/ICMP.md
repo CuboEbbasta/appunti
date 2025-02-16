@@ -92,3 +92,4 @@ In ICMPv6 si distinguono due categorie di messaggi:
 
 ---
 [[Il protocollo ARP]]
+

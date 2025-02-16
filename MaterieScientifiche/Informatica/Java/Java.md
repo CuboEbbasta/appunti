@@ -68,6 +68,7 @@ Java è utilizzato in una vasta gamma di applicazioni:
 
 
 **APPUNTI:**
+[[Ripasso generale]]
 [[JavaIO.pdf]]
 [[Le liste]]
 [[Alberi]]

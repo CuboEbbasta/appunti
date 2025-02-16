@@ -77,3 +77,6 @@ In informatica, **TPS** si riferisce a **Tecnologie, Progettazione e Sistemi**, 
 
 **GIT**:
 [[Riassunto metodi visti per lavorare su git.pdf]]
+
+**RIPASSO DI TERZA**:
+[[materiale di ripasso terza.pdf]]
