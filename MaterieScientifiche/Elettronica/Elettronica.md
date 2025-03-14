@@ -42,3 +42,17 @@ ARGOMENTO 1:
 
 ARGOMENTO 2:
 [[Tutto.png]]
+
+ARGOMENTO 3:
+[[Screenshot 2025-03-14 110007.png]]
+[[Screenshot 2025-03-14 110024.png]]
+[[Screenshot 2025-03-14 110039.png]]
+[[telecomunicazioni1.png]]
+[[Screenshot_2025-03-13_180345.png]]
+[[telecomunicazioni2.png]]
+[[Screenshot_2025-03-13_183532.png]]
+[[IMG-20250314-WA0022.jpg]]
+[[IMG-20250314-WA0023.jpg]]
+[[IMG-20250314-WA0024.jpg]]
+[[TUTTOargomentonuovosecondoquad..png]]
+

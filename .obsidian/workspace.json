@@ -11,10 +11,12 @@
             "id": "ce5997f984f76f04",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "image",
+              "state": {
+                "file": "MaterieScientifiche/Elettronica/Argomento 3/Screenshot 2025-03-14 110007.png"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot 2025-03-14 110007"
             }
           }
         ]
@@ -163,6 +165,20 @@
   },
   "active": "ce5997f984f76f04",
   "lastOpenFiles": [
+    "MaterieScientifiche/Elettronica/Argomento 3/Screenshot 2025-03-14 110024.png",
+    "MaterieScientifiche/Elettronica/Argomento 3/telecomunicazioni1.png",
+    "MaterieScientifiche/Elettronica/Argomento 3/Screenshot 2025-03-14 110039.png",
+    "MaterieScientifiche/Elettronica/Argomento 3/Screenshot_2025-03-13_180345.png",
+    "MaterieScientifiche/Elettronica/Argomento 3/telecomunicazioni2.png",
+    "MaterieScientifiche/Elettronica/Argomento 3/Screenshot_2025-03-13_183532.png",
+    "MaterieScientifiche/Elettronica/Argomento 3/IMG-20250314-WA0023.jpg",
+    "MaterieScientifiche/Elettronica/Argomento 3/IMG-20250314-WA0024.jpg",
+    "MaterieScientifiche/Elettronica/Argomento 3/TUTTOargomentonuovosecondoquad..png",
+    "MaterieScientifiche/Elettronica/Argomento 3/Screenshot 2025-03-14 105910.png",
+    "MaterieScientifiche/Elettronica/Argomento 3/Screenshot 2025-03-14 105952.png",
+    "MaterieScientifiche/Elettronica/Elettronica.md",
+    "MaterieScientifiche/Elettronica/Concetti di Elettrotecnica Definizioni e Caratteristiche.md",
+    "MaterieScientifiche/Elettronica/Argomento 3",
     "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Artistica e Tecnica.md",
     "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Artistica/Parte Artistica.md",
     "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Tecnica/Parte Tecnica.md",
@@ -191,17 +207,10 @@
     "MaterieScientifiche/Informatica/TPS/TPS (in teoria).md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/Gli algoritmi e i Protocolli di Routing.md",
     "MaterieScientifiche/Informatica/TPS/PDF/Argomenti di terza/materiale di ripasso terza.pdf",
-    "MaterieScientifiche/Informatica/TPS/PDF/Argomenti di terza",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/Routing e Routing Table.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/Il protocollo ARP.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/ICMP.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/Comandi ping.md",
-    "MaterieScientifiche/Fisica/Fisica.md",
-    "MaterieScientifiche/Fisica/ConcettiDiMotoECinematica.md",
-    "MaterieScientifiche/Materie Scientifiche.md",
-    "MaterieScientifiche/Elettronica/Argomento 2/Tutto.png",
-    "MaterieScientifiche/Elettronica/Argomento 1/Dominio del Tempo in Parallelo.png",
-    "MaterieScientifiche/Elettronica/Argomento 1/Dominio del Tempo in Serie.png",
     "Senza nome.canvas",
     "MaterieUmanistiche/Storia/`700/Europa/Senza nome.canvas"
   ]
