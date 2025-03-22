@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "72cf821366667935",
+        "id": "ae856ccee8e015e3",
         "type": "tabs",
         "children": [
           {
-            "id": "ce5997f984f76f04",
+            "id": "c5acec5956d2a572",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "MaterieScientifiche/Elettronica/Argomento 3/Screenshot 2025-03-14 110007.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-03-14 110007"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -38,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -51,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#spoofing",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +160,30 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ce5997f984f76f04",
+  "active": "c5acec5956d2a572",
   "lastOpenFiles": [
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/U5-L2-Distance_Vector_Algorithm.pdf",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/SPF.pdf",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/U5-L2-Distance_Vector_Algorithm-count-to-infinity.pdf",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/E, Protocolli di Routing IGP.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e reti(Internetworking).pdf",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/D, Gli Autonomous System e il Routing Gerarchico.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/C, L'algoritmo di routing Link State.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/A, Routing e Routing Table.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/B, Gli algoritmi e i Protocolli di Routing.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e Reti.md",
+    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese.md",
+    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Industriale.md",
+    "MaterieUmanistiche/Storia/`700/Settecento.md",
+    "MaterieUmanistiche/Storia/Storia.md",
+    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese 2.md",
+    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/Pensiero e Temi Principali/Pensiero e Temi principali.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/Opere principali/La locandiera.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/RiformaTeatro.pdf",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/BioGoldoniBIS.pdf",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/Carlo Goldoni.md",
+    "MaterieScientifiche/Elettronica/Argomento 3/Screenshot 2025-03-14 110007.png",
     "MaterieScientifiche/Elettronica/Argomento 3/Screenshot 2025-03-14 110024.png",
     "MaterieScientifiche/Elettronica/Argomento 3/telecomunicazioni1.png",
     "MaterieScientifiche/Elettronica/Argomento 3/Screenshot 2025-03-14 110039.png",
@@ -174,8 +193,6 @@
     "MaterieScientifiche/Elettronica/Argomento 3/IMG-20250314-WA0023.jpg",
     "MaterieScientifiche/Elettronica/Argomento 3/IMG-20250314-WA0024.jpg",
     "MaterieScientifiche/Elettronica/Argomento 3/TUTTOargomentonuovosecondoquad..png",
-    "MaterieScientifiche/Elettronica/Argomento 3/Screenshot 2025-03-14 105910.png",
-    "MaterieScientifiche/Elettronica/Argomento 3/Screenshot 2025-03-14 105952.png",
     "MaterieScientifiche/Elettronica/Elettronica.md",
     "MaterieScientifiche/Elettronica/Concetti di Elettrotecnica Definizioni e Caratteristiche.md",
     "MaterieScientifiche/Elettronica/Argomento 3",
@@ -186,31 +203,10 @@
     "MaterieUmanistiche/Cinema/Storia del Cinema.md",
     "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Artistica",
     "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Tecnica",
-    "MaterieUmanistiche/Cinema/Parte del Cinema",
-    "MaterieUmanistiche/Cinema",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/GiuseppeParini/Pensiero e Temi principali/Pensiero e Temi principali.md",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/GiuseppeParini/Vita.md",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/GiuseppeParini/Giuseppe Parini.md",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/GiuseppeParini/Opere principali/Opere principali.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiuseppeParini/Opere principali/Il Giorno.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiuseppeParini/Eredità culturale.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Vita.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Ugo Foscolo.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiuseppeParini/Pensiero e Temi principali",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiuseppeParini/Opere principali",
-    "MaterieScientifiche/Informatica/Java/Libro e Appunti/Alberi/Alberi Binari.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiuseppeParini",
-    "MaterieScientifiche/Informatica/Java/Libro e Appunti/Alberi/Alberi.md",
-    "MaterieScientifiche/Informatica/Java/Java.md",
-    "MaterieScientifiche/Informatica/Java/Libro e Appunti/Ripasso vecchio/Ripasso generale.md",
-    "MaterieScientifiche/Informatica/Java/Libro e Appunti/Ripasso vecchio",
-    "MaterieScientifiche/Informatica/TPS/TPS (in teoria).md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/Gli algoritmi e i Protocolli di Routing.md",
-    "MaterieScientifiche/Informatica/TPS/PDF/Argomenti di terza/materiale di ripasso terza.pdf",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/Routing e Routing Table.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/Il protocollo ARP.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/ICMP.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/Comandi ping.md",
     "Senza nome.canvas",
     "MaterieUmanistiche/Storia/`700/Europa/Senza nome.canvas"
   ]

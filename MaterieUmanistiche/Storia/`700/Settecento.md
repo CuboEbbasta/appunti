@@ -143,6 +143,7 @@ Il Settecento fu un secolo di trasformazioni epocali, in cui la ragione e il pro
 
 ---
 [[Rivoluzione Francese]]
+[[Rivoluzione Francese 2]]
 
 [[Rivoluzione Americana]]
 
