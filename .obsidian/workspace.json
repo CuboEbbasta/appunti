@@ -11,10 +11,14 @@
             "id": "c5acec5956d2a572",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/C, ICMP.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "C, ICMP"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5026054382324
+    "width": 302.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "d99b5d59f1db53fc",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/C, ICMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti"
+              "title": "Riferimenti a C, ICMP"
             }
           },
           {
@@ -145,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,15 +169,20 @@
   },
   "active": "c5acec5956d2a572",
   "lastOpenFiles": [
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/U5-L2-Distance_Vector_Algorithm.pdf",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/SPF.pdf",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/U5-L2-Distance_Vector_Algorithm-count-to-infinity.pdf",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/E, Protocolli di Routing IGP.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e reti(Internetworking).pdf",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/C, ICMP.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/E, Comandi ping.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/D, Il protocollo ARP.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/A, IPv6.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/E, Protocolli di Routing IGP.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/D, Gli Autonomous System e il Routing Gerarchico.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/C, L'algoritmo di routing Link State.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/A, Routing e Routing Table.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/B, Gli algoritmi e i Protocolli di Routing.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/A, Routing e Routing Table.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/B, Indirizzi IPv6.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/U5-L2-Distance_Vector_Algorithm-count-to-infinity.pdf",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/U5-L2-Distance_Vector_Algorithm.pdf",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/SPF.pdf",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e Reti.md",
     "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese.md",
     "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Industriale.md",
@@ -200,13 +212,8 @@
     "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Artistica/Parte Artistica.md",
     "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Tecnica/Parte Tecnica.md",
     "MaterieUmanistiche/Cinema/Cinema.md",
-    "MaterieUmanistiche/Cinema/Storia del Cinema.md",
     "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Artistica",
     "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Tecnica",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiuseppeParini/Pensiero e Temi principali/Pensiero e Temi principali.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiuseppeParini/Vita.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiuseppeParini/Giuseppe Parini.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiuseppeParini/Opere principali/Opere principali.md",
     "Senza nome.canvas",
     "MaterieUmanistiche/Storia/`700/Europa/Senza nome.canvas"
   ]

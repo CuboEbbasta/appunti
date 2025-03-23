@@ -174,4 +174,4 @@ Quando lavoriamo con VLSM, è la **subnet mask** a determinare quante porzioni d
 
 ---
 
-[[IPv6]]
+[[A, IPv6]]
