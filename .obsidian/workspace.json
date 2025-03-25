@@ -4,21 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "ae856ccee8e015e3",
+        "id": "d7290b81d8f65db6",
         "type": "tabs",
         "children": [
           {
-            "id": "c5acec5956d2a572",
+            "id": "c60b7dab13b775ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          },
+          {
+            "id": "ffdd51a3daaa8784",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
               "state": {
-                "file": "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/C, ICMP.md",
-                "mode": "preview",
-                "source": false
+                "file": "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e reti(Internetworking).pdf",
+                "page": 231,
+                "left": -376,
+                "top": 174,
+                "zoom": 1.25
               },
-              "icon": "lucide-file",
-              "title": "C, ICMP"
+              "icon": "lucide-file-text",
+              "title": "Sistemi e reti(Internetworking)"
             }
           }
         ]
@@ -78,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5026054382324,
-    "collapsed": true
+    "width": 302.5026054382324
   },
   "right": {
     "id": "d99b5d59f1db53fc",
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/C, ICMP.md",
+                "file": "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/SPF.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +116,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a C, ICMP"
+              "title": "Riferimenti a SPF"
             }
           },
           {
@@ -167,30 +178,32 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c5acec5956d2a572",
+  "active": "c60b7dab13b775ab",
   "lastOpenFiles": [
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e reti(Internetworking).pdf",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/C, ICMP.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/E, Comandi ping.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/D, Il protocollo ARP.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/A, IPv6.md",
+    "MaterieUmanistiche/Storia/`700/Settecento.md",
+    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Industriale.md",
+    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese 3.md",
+    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/ITALY DOCENTI - STORIALIVE 2018 - Laboratori cinema - Danton - Fonti e storiografia.pdf",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/SPF.pdf",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/E, Protocolli di Routing IGP.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e reti(Internetworking).pdf",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/D, Gli Autonomous System e il Routing Gerarchico.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/C, L'algoritmo di routing Link State.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/B, Gli algoritmi e i Protocolli di Routing.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/A, Routing e Routing Table.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/B, Indirizzi IPv6.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/E, Comandi ping.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/D, Il protocollo ARP.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/C, ICMP.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/U5-L2-Distance_Vector_Algorithm-count-to-infinity.pdf",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/U5-L2-Distance_Vector_Algorithm.pdf",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/SPF.pdf",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/Pensiero e Temi Principali/Pensiero e Temi principali.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/A, IPv6.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/B, Indirizzi IPv6.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e Reti.md",
     "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese.md",
-    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Industriale.md",
-    "MaterieUmanistiche/Storia/`700/Settecento.md",
     "MaterieUmanistiche/Storia/Storia.md",
     "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese 2.md",
     "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/Pensiero e Temi Principali/Pensiero e Temi principali.md",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/Opere principali/La locandiera.md",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/RiformaTeatro.pdf",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/BioGoldoniBIS.pdf",
@@ -211,9 +224,7 @@
     "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Artistica e Tecnica.md",
     "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Artistica/Parte Artistica.md",
     "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Tecnica/Parte Tecnica.md",
-    "MaterieUmanistiche/Cinema/Cinema.md",
     "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Artistica",
-    "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Tecnica",
     "Senza nome.canvas",
     "MaterieUmanistiche/Storia/`700/Europa/Senza nome.canvas"
   ]

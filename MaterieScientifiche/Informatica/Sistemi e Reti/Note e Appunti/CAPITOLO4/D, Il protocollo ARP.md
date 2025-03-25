@@ -1,5 +1,5 @@
 > [!PDF|yellow] [[Sistemi e reti(Internetworking).pdf#page=181&selection=80,0,95,63&color=yellow|Sistemi e reti(Internetworking), p.181]]
-> > In ambito IETF è stato sviluppato **il protocollo ARP** (Address Resolution Protocol), RFC 826, che **definisce le modalità di comunicazione tra gli host di una rete locale per trovare il MAC address di una scheda di rete della quale si conosce solo l’indirizzo IP**. Questa **operazione** è **detta risoluzione dell'indirizzo IP**. *ARP è usato solamente per indirizzi IPv4, non funziona con IPv6*.
+> > In ambito IETF è stato sviluppato **il protocollo ARP** (**Address Resolution Protocol**), RFC 826, che **definisce le modalità di comunicazione tra gli host di una rete locale per trovare il MAC address di una scheda di rete della quale si conosce solo l’indirizzo IP**. Questa **operazione** è **detta risoluzione dell'indirizzo IP**. *ARP è usato solamente per indirizzi IPv4, non funziona con IPv6*.
 
 ---
 [[Sistemi e reti(Internetworking).pdf#page=181&selection=143,0,145,17&color=yellow|IL FORMATO DEL PACCHETTO ARP]]
@@ -62,7 +62,7 @@ La risposta ARP inviata dal dispositivo con l'IP address **192.168.1.5** avrà:
 	
 - **==Se un host riscontra che l'IP specificato è il proprio indirizzo==**, **allora prepara un ==pacchetto ARP di risposta contenente una ARP Reply in cui specifica l’indirizzo MAC corrispondente al proprio IP**==; *inoltre aggiunge la coppia di indirizzi IP-MAC del mittente nella propria cache ARP*.
 
-1. ==**Il mittente**, **ricevuta la risposta**, **aggiorna la propria cache ARP e avvia la comunicazione**==.
+3. ==**Il mittente**, **ricevuta la risposta**, **aggiorna la propria cache ARP e avvia la comunicazione**==.
 
    ==**Il procedimento ARP è differente se utilizzato su reti remote**==. ==**Per dialogare con l’host remoto**, **l’host mittente si affida al gateway predefinito**==, *impostato nelle proprietà del TCP/IP*, **al quale ==dirige tutto il traffico indirizzato all’host che non riesce a raggiungere==**.
    ==**Se eventualmente poi si trattasse di un’implementazione TCP/IP che non prevede il gateway**, **il mittente invierebbe i pacchetti al router di rete==. In ogni caso ==il mittente può usare il pacchetto ARP per individuare gateway o router**, **qualora il loro MAC non fosse mappato nella sua cache ARP**, **nello stesso modo con cui individuava il MAC dell’host destinatario in locale**==.

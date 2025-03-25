@@ -1,4 +1,4 @@
-L’algoritmo Link State supera la principale limitazione del Distance Vector cioè la mancata conoscenza della topologia della rete.
+*L’algoritmo Link State supera la principale limitazione del Distance Vector cioè la mancata conoscenza della topologia della rete*.
 
 > [!PDF|yellow] [[Sistemi e reti(Internetworking).pdf#page=217&selection=77,0,83,26&color=yellow|Ogni router ha una descrizione completa e diretta della topologia della rete poiché scambia le informazioni sulle distanze direttamente con tutti i router della rete e non solo coi vicini]]
 > > Ogni router ha una descrizione completa e diretta della topologia della rete poiché scambia le informazioni sulle distanze direttamente con tutti i router della rete e non solo coi vicini
@@ -11,7 +11,7 @@ Le caratteristiche del Link State si possono riassumere così:
 
 - Dispone della mappa della rete;
 
-- Ha una ==convergenza rapida== *(Tutti i router conoscono tutto)* poiché le informazioni si propagano velocemente sen za alcuna elaborazione intermedia (comunicazione diretta tra tutti i nodi e non attraverso informazioni di “seconda mano”);
+- Ha una ==convergenza rapida== *(Tutti i router conoscono tutto)* poiché le informazioni si propagano velocemente senza alcuna elaborazione intermedia (comunicazione diretta tra tutti i nodi e non attraverso informazioni di “seconda mano”);
 
 - ==Difficilmente genera loop== e comunque è in grado di identificarli e interromperli facilmente;
 
@@ -23,4 +23,7 @@ Le caratteristiche del Link State si possono riassumere così:
 > > Il principale ==svantaggio== di un algoritmo Link State è la complessità di realizzazione, anche dovuta alla notevole capacità di memoria (==il database di tutta la rete==) ==e velocità di elaborazione== (==ricerca dei cammini a costo minimo==) ==richiesti==.
 
 [[Sistemi e reti(Internetworking).pdf#page=218&selection=57,0,58,1&color=yellow|TABELLA 2]]
+
+---
+[[D, Gli Autonomous System e il Routing Gerarchico]]
 

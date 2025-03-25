@@ -40,18 +40,18 @@ Vediamo in dettaglio i vari campi:
 **Note:** "D" indicates that the type is deprecated and not commonly used in modern networks.
 
 
-- **[[Sistemi e reti(Internetworking).pdf#page=179&selection=103,2,104,0&color=yellow|Code]]**: ==fornisce indicazioni aggiuntive non comprese nel campo Type==.
+- **[[Sistemi e reti(Internetworking).pdf#page=179&selection=103,2,104,0&color=yellow|Code]]**: ==fornisce indicazioni aggiuntive non comprese nel campo Type== (8 bit).
 
-- **[[Sistemi e reti(Internetworking).pdf#page=179&selection=107,2,107,10&color=yellow|Checksum]]**: ==contiene i bit per il controllo degli errori di trasmissione==.
+- **[[Sistemi e reti(Internetworking).pdf#page=179&selection=107,2,107,10&color=yellow|Checksum]]**: ==contiene i bit per il controllo degli errori di trasmissione== (16 bit).
 
-- **[[Sistemi e reti(Internetworking).pdf#page=179&selection=111,3,111,20&color=yellow|Type Specific Data]]**: ==contiene informazioni che dipendono dal tipo di servizio che l’ICMP sta offrendo==. *Per esempio* le più comuni *Echo Request/Echo Reply comprendono un identificatore e un numero sequenziale che servono a identificare ciascuna richiesta di eco e ciascuna risposta*.
+- **[[Sistemi e reti(Internetworking).pdf#page=179&selection=111,3,111,20&color=yellow|Type Specific Data]]**: ==contiene informazioni che dipendono dal tipo di servizio che l’ICMP sta offrendo==. *Per esempio* le più comuni *Echo Request/Echo Reply comprendono un identificatore e un numero sequenziale che servono a identificare ciascuna richiesta di eco e ciascuna risposta* (32 bit).
 
 ---
 [[Sistemi e reti(Internetworking).pdf#page=179&selection=121,1,122,26&color=yellow|Le funzioni svolte da ICMP]]
 
 Le principali funzioni che il protocollo ICMP può svolgere sono:
 
-- ==Fornire messaggi== di eco p==er verificare la corretta configurazione di host sulla rete e che quindi una qualsiasi destinazione sia raggiungibile==: *Echo Request* (Type 8) del mittente, *Echo Reply* (Type 0) del destinatario. ==Si realizza con il comando ping==;
+- ==Fornire messaggi== di eco per ==verificare la corretta configurazione di host sulla rete e che quindi una qualsiasi destinazione sia raggiungibile==: *Echo Request* (Type 8) del mittente, *Echo Reply* (Type 0) del destinatario. ==Si realizza con il comando ping==;
 
 - ==Segnalare una destinazione non raggiungibile== ==perché sconosciuta o perché un pacchetto è troppo grande ma non è consentito frammentarlo==: *Destination Unreachable* (Type 3);
 
@@ -75,7 +75,7 @@ Le principali funzioni che il protocollo ICMP può svolgere sono:
 ==Una nuova versione di ICMP è stata definita per lavorare con la versione 6 di IP==, descritta nella Lezione 1. Infatti, lo sviluppo di IPv6 ha reso necessaria una riorganizzazione dei tipi e dei codici esistenti in ICMP e la definizione di nuovi. I==l formato del pacchetto ICMPv6 è, però, rimasto lo stesso di ICMPv4==. ICMPv6 è specificato in RFC 4443 e successivi aggiornamenti.
 
 > [!PDF|yellow] [[Sistemi e reti(Internetworking).pdf#page=180&selection=57,0,62,31&color=yellow|La versione ICMPvó è stata potenziata rispetto alla ICMPv4, aggiungendo nuo ve funzionalità e incorporandone altre derivanti da protocolli IPv4 come IGMP e ARP. I numeri dei messaggi e dei tipi sono diversi da quelli ICMPv4, rendendo così incompatibili i due protocolli.]]
-> > **La versione ICMPv6 è stata potenziata rispetto alla ICMPv4**, **aggiungendo nuove funzionalità e incorporandone altre derivanti da protocolli IPv4 come IGMP e ARP**. I numeri dei messaggi e dei tipi sono diversi da quelli ICMPv4, rendendo così incompatibili i due protocolli.
+> > **La versione ICMPv6 è stata potenziata rispetto alla ICMPv4**, **aggiungendo nuove funzionalità e incorporandone altre derivanti da protocolli IPv4 come IGMP e ARP**. I numeri dei messaggi e dei tipi sono diversi da quelli ICMPv4, rendendo così **incompatibili i due protocolli**.
 > 
 
 ---

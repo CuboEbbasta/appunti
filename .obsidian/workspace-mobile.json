@@ -25,10 +25,14 @@
             "id": "6f412dd9e810d91a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rivoluzione Francese"
             }
           }
         ],
@@ -183,6 +187,8 @@
   },
   "active": "6f412dd9e810d91a",
   "lastOpenFiles": [
+    "MaterieScientifiche/Informatica/Java/Libro e Appunti/Alberi/Alberi.md",
+    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese.md",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Eredità culturale.md",
     "MaterieUmanistiche/Filosofia/`700/Illuministi/illuminismo.pdf",
     "MaterieUmanistiche/Filosofia/`700/Illuministi/IlluminismoA.pdf",
@@ -219,8 +225,6 @@
     "MaterieUmanistiche/Inglese/Letteratura Inglese/WilliamShakespeare/Opere principali/Teatro/Analisi personali/Analisi personale tra Amleto, MacBeth e Il mercante di Venezia.md",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Opere principali/Poesia/I Canti/Poesie/La quiete dopo la tempesta.md",
     "MaterieUmanistiche/Filosofia/`700/Illuministi/Italiani/FratelliVerri/AlessandroVerri/Alessandro Verri.md",
-    "MaterieUmanistiche/Filosofia/`700/Illuministi/Francesi/Voltaire/Pensiero.md",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/GiacomoLeopardi/Giacomo Leopardi.md",
     "MaterieUmanistiche/Filosofia/'800/Nietzsche"
   ]
 }
