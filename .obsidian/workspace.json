@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d7290b81d8f65db6",
+        "id": "3ac00b8cf5509678",
         "type": "tabs",
         "children": [
           {
-            "id": "c60b7dab13b775ab",
+            "id": "aa05015f7050d20c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          },
-          {
-            "id": "ffdd51a3daaa8784",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e reti(Internetworking).pdf",
-                "page": 231,
-                "left": -376,
-                "top": 174,
-                "zoom": 1.25
+                "file": "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese 4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Sistemi e reti(Internetworking)"
+              "icon": "lucide-file",
+              "title": "Rivoluzione Francese 4"
             }
           }
         ]
@@ -178,12 +166,27 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c60b7dab13b775ab",
+  "active": "aa05015f7050d20c",
   "lastOpenFiles": [
     "MaterieUmanistiche/Storia/`700/Settecento.md",
-    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Industriale.md",
-    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese 3.md",
+    "MaterieUmanistiche/Storia/Storia.md",
+    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese 4.md",
+    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Poesia.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Le Ultime Lettere di Jacopo Ortis.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/I Sepolcri.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Opere principali.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Vita.md",
+    "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Ugo Foscolo.md",
+    "MaterieScientifiche/Informatica/TPS/PDF/Junit/Junit esempi e tabella.md",
+    "MaterieScientifiche/Informatica/TPS/PDF/Junit/Junit in teoria.md",
+    "MaterieScientifiche/Informatica/TPS/TPS (in teoria).md",
+    "MaterieScientifiche/Informatica/TPS/PDF/Git/Git comandi.md",
+    "MaterieScientifiche/Informatica/Informatica.md",
     "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/ITALY DOCENTI - STORIALIVE 2018 - Laboratori cinema - Danton - Fonti e storiografia.pdf",
+    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese 3.md",
+    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese 2.md",
+    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Industriale.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/SPF.pdf",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/E, Protocolli di Routing IGP.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e reti(Internetworking).pdf",
@@ -196,18 +199,9 @@
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/C, ICMP.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/U5-L2-Distance_Vector_Algorithm-count-to-infinity.pdf",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/U5-L2-Distance_Vector_Algorithm.pdf",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/Pensiero e Temi Principali/Pensiero e Temi principali.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/A, IPv6.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/B, Indirizzi IPv6.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e Reti.md",
-    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese.md",
-    "MaterieUmanistiche/Storia/Storia.md",
-    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese 2.md",
     "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/Opere principali/La locandiera.md",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/RiformaTeatro.pdf",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/BioGoldoniBIS.pdf",
-    "MaterieUmanistiche/Italiano/Letteratura Italiana/CarloGoldoni/Carlo Goldoni.md",
     "MaterieScientifiche/Elettronica/Argomento 3/Screenshot 2025-03-14 110007.png",
     "MaterieScientifiche/Elettronica/Argomento 3/Screenshot 2025-03-14 110024.png",
     "MaterieScientifiche/Elettronica/Argomento 3/telecomunicazioni1.png",
@@ -218,12 +212,7 @@
     "MaterieScientifiche/Elettronica/Argomento 3/IMG-20250314-WA0023.jpg",
     "MaterieScientifiche/Elettronica/Argomento 3/IMG-20250314-WA0024.jpg",
     "MaterieScientifiche/Elettronica/Argomento 3/TUTTOargomentonuovosecondoquad..png",
-    "MaterieScientifiche/Elettronica/Elettronica.md",
-    "MaterieScientifiche/Elettronica/Concetti di Elettrotecnica Definizioni e Caratteristiche.md",
     "MaterieScientifiche/Elettronica/Argomento 3",
-    "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Artistica e Tecnica.md",
-    "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Artistica/Parte Artistica.md",
-    "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Tecnica/Parte Tecnica.md",
     "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Artistica",
     "Senza nome.canvas",
     "MaterieUmanistiche/Storia/`700/Europa/Senza nome.canvas"

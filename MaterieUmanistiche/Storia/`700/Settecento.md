@@ -145,6 +145,7 @@ Il Settecento fu un secolo di trasformazioni epocali, in cui la ragione e il pro
 [[Rivoluzione Francese]]
 [[Rivoluzione Francese 2]]
 [[Rivoluzione Francese 3]]
+[[Rivoluzione Francese 4]]
 [[ITALY DOCENTI - STORIALIVE 2018 - Laboratori cinema - Danton - Fonti e storiografia.pdf]]
 
 [[Rivoluzione Americana]]

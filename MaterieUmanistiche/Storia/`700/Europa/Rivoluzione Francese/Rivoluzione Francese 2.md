@@ -77,7 +77,7 @@ Le idee dell’**Illuminismo** (Voltaire, Rousseau, Montesquieu) diffusero conce
 - **21 settembre 1792**: Viene abolita la monarchia, nasce la **Prima Repubblica**.
 - **Gennaio 1793**: Luigi XVI viene ghigliottinato per tradimento.
 - **Giugno 1793**: I radicali (Giacobini) prendono il potere → **Inizia il Terrore**.
-- **Ottobre 1793**: Maria Antonietta viene ghigliottinata.
+- ** 16 Ottobre 1793**: Maria Antonietta viene ghigliottinata.
 
 ✦ **Personaggi chiave**: Robespierre, Danton, Marat.  
 ✦ **Idee principali**: Repubblica, radicalismo, guerra contro i nemici interni ed esterni.
