@@ -1,0 +1,5 @@
+
+> [!PDF|yellow] [[Sistemi e reti(Internetworking).pdf#page=284&selection=16,0,21,42&color=yellow|User Datagram Protocol è un protocollo del livello Transport che non prevede l'uso di una connessione tra host mittente e host destinatario: infatti ciascun da tagram UDP è trattato in modo indipendente]]
+> > **User Datagram Protocol** è un protocollo del livello Transport che non prevede l'uso di una connessione tra host mittente e host destinatario: infatti ciascun datagram UDP è trattato in modo indipendente
+
+ll servizio offerto da UDP è di tipo Best Effort (come va, va): i datagram UDP possono essere persi o arrivare fuori sequenza, non si ha quindi alcuna garanzia sulla consegna dei dati trasmessi ([[Sistemi e reti(Internetworking).pdf#page=284&selection=52,0,52,8&color=yellow|FIGURA 9]]). A prima vista quindi sembrerebbe non offrire un servizio significativamente diverso da quello offerto dal protocollo IP, in realtà non è così: UDP fornisce le funzionalità tipiche del livello Transport in termini di **multiplexing**, grazie all’uso delle porte, e di controllo dell’**integrità dei dati** (il campo Checksum, però, è opzionale).

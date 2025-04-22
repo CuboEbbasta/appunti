@@ -4,21 +4,43 @@
     "type": "split",
     "children": [
       {
+        "id": "a688b2fedf13e20c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "260cc7f302091e33",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e reti(Internetworking).pdf",
+                "page": 284,
+                "left": -13,
+                "top": 682,
+                "zoom": 1.372387477235279
+              },
+              "icon": "lucide-file-text",
+              "title": "Sistemi e reti(Internetworking)"
+            }
+          }
+        ]
+      },
+      {
         "id": "3ac00b8cf5509678",
         "type": "tabs",
         "children": [
           {
-            "id": "aa05015f7050d20c",
+            "id": "1ec91fe6070da6be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese 4.md",
+                "file": "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO6/C, UN PROTOCOLLO DI TRASPORTO CONNECTIONLESS (UDP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rivoluzione Francese 4"
+              "title": "C, UN PROTOCOLLO DI TRASPORTO CONNECTIONLESS (UDP)"
             }
           }
         ]
@@ -53,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#primitive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,12 +188,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "aa05015f7050d20c",
+  "active": "1ec91fe6070da6be",
   "lastOpenFiles": [
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e reti(Internetworking).pdf",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO6/C, UN PROTOCOLLO DI TRASPORTO CONNECTIONLESS (UDP).md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO6/B, LE FUNZIONALITÀ DI MULTIPLEXING E DEMULTIPLEXING.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO6/A, LE PORTE, LE SOCKET E I SERVIZI.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/F, PROTOCOLLI DI ROUTING EGP.md",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO6",
+    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/E, Protocolli di Routing IGP.md",
+    "MaterieScientifiche/Elettronica/Argomento 3/Argomento 3.md",
+    "MaterieScientifiche/Elettronica/Elettronica.md",
+    "MaterieScientifiche/Elettronica/Concetti di Elettrotecnica Definizioni e Caratteristiche.md",
+    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese.md",
+    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese 3.md",
+    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese 2.md",
+    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese 4.md",
     "MaterieUmanistiche/Storia/`700/Settecento.md",
     "MaterieUmanistiche/Storia/Storia.md",
-    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese 4.md",
-    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese.md",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Poesia.md",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/Le Ultime Lettere di Jacopo Ortis.md",
     "MaterieUmanistiche/Italiano/Letteratura Italiana/UgoFoscolo/Opere principali/Poesia/I Sepolcri.md",
@@ -184,19 +218,7 @@
     "MaterieScientifiche/Informatica/TPS/PDF/Git/Git comandi.md",
     "MaterieScientifiche/Informatica/Informatica.md",
     "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/ITALY DOCENTI - STORIALIVE 2018 - Laboratori cinema - Danton - Fonti e storiografia.pdf",
-    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese 3.md",
-    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese/Rivoluzione Francese 2.md",
-    "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Industriale.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/SPF.pdf",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/E, Protocolli di Routing IGP.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Sistemi e reti(Internetworking).pdf",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/D, Gli Autonomous System e il Routing Gerarchico.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/C, L'algoritmo di routing Link State.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/B, Gli algoritmi e i Protocolli di Routing.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/A, Routing e Routing Table.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/E, Comandi ping.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/D, Il protocollo ARP.md",
-    "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO4/C, ICMP.md",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/U5-L2-Distance_Vector_Algorithm-count-to-infinity.pdf",
     "MaterieScientifiche/Informatica/Sistemi e Reti/Note e Appunti/CAPITOLO5/U5-L2-Distance_Vector_Algorithm.pdf",
     "MaterieUmanistiche/Storia/`700/Europa/Rivoluzione Francese",
@@ -213,7 +235,6 @@
     "MaterieScientifiche/Elettronica/Argomento 3/IMG-20250314-WA0024.jpg",
     "MaterieScientifiche/Elettronica/Argomento 3/TUTTOargomentonuovosecondoquad..png",
     "MaterieScientifiche/Elettronica/Argomento 3",
-    "MaterieUmanistiche/Cinema/Parte del Cinema/Parte Artistica",
     "Senza nome.canvas",
     "MaterieUmanistiche/Storia/`700/Europa/Senza nome.canvas"
   ]
