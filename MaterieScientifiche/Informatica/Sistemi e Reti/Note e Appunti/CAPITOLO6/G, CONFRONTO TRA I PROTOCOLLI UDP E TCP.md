@@ -2,16 +2,16 @@
 > > Da quanto emerso nelle Lezioni precedenti è chiaro che TCP sia da preferire per il trasferimento dati in cui è importante l’affidabilità della comunicazione, UDP è invece preferibile quando le prestazioni sono più importanti del ricevere i dati in modo perfetto.
 
 **UDP si usa**: 
-- su una rete affidabile oppure quando l’affidabilità non è importante, per esempio NFS (Network File System); 
-- quando l’applicazione mette tutti i dati in un singolo datagram, per esempio DNS (Domain Name System) o NTP (Network Time Protocol); 
-- quando non è importante che tutti i datagram arrivino a destinazione, ma è neces sario non introdurre ritardi; questa è una tipica esigenza delle applicazioni mul timediali, infatti i dati di queste applicazioni devono arrivare entro un tempo li mite (un pacchetto in ritardo equivale a un pacchetto perso), inoltre non sarebbe accettabile il ritardo che si avrebbe con la ritrasmissione, tipica dei protocolli di tipo connection-oriented;
+- ==su una rete affidabile oppure quando l’affidabilità non è importante==, per esempio NFS (Network File System); 
+- ==quando l’applicazione mette tutti i dati in un singolo datagram==, per esempio DNS (Domain Name System) o NTP (Network Time Protocol); 
+- ==quando non è importante che tutti i datagram arrivino a destinazione, ma è necessario non introdurre ritardi==; questa è una tipica esigenza delle applicazioni multimediali, infatti i dati di queste applicazioni devono arrivare entro un tempo limite (un pacchetto in ritardo equivale a un pacchetto perso), inoltre non sarebbe accettabile il ritardo che si avrebbe con la ritrasmissione, tipica dei protocolli di tipo connection-oriented;
 - quando eventuali meccanismi di ritrasmissione possono essere gestiti direttamen te dall’applicazione, come per esempio nel protocollo di gestione SNMP (Simple Network Management Protocol).
 
 **TCP si usa**:
-- quando l’applicazione richiede una comunicazione affidabile, come per esempio la posta elettronica;
-- quando è necessario garantire l’integrità dei dati, per esempio nel trasferimento di file o nell’interrogazione a un database;
-- quando è necessario garantire che le richieste e le risposte arrivino a destinazione, per esempio la richiesta di una pagina web;
-- quando è necessario mantenere il controllo costante della comunicazione (ossia se ne gestisce lo “stato”)
+- ==quando l’applicazione richiede una comunicazione affidabile==, come per esempio la posta elettronica;
+- ==quando è necessario garantire l’integrità dei dati==, per esempio nel trasferimento di file o nell’interrogazione a un database;
+- ==quando è necessario garantire che le richieste e le risposte arrivino a destinazione==, per esempio la richiesta di una pagina web;
+- ==quando è necessario mantenere il controllo costante della comunicazione== (ossia se ne gestisce lo “stato”)
 
 La [[Sistemi e reti(Internetworking).pdf#page=302&selection=57,0,60,1&color=yellow|TABELLA 3]] presenta le caratteristiche più importanti di un protocollo di livello Transport e ne indica il supporto (sì/no) da parte di TCP e UDP.
 
